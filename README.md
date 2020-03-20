@@ -13,4 +13,5 @@ Olá!
 
 Eu sou um economista brasileiro que está aprendendo análise de dados com Python. Neste repositório, você encontrará os projetos que desenvolvi para fins de aprendizado.
 Esse repositório estará sempre em construção, à medida que continuo me aprofundando e desenvolvendo análises mais complexas.
+A maior parte do conteúdo está inglês para que tenha maior alcance e, ao mesmo tempo, para que eu possa me manter em contato com o idioma praticando a escrita.
 Sinta-se à vontade para entrar em contato comigo, fazer sugestões ou propor novas idéias para projetos.
