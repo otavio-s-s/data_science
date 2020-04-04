@@ -1,4 +1,4 @@
-[![](https://i413.photobucket.com/albums/pp211/ottobis/auhtor_zpsayaiye56.png)](https://www.linkedin.com/in/otavioss28/) [![](https://i413.photobucket.com/albums/pp211/ottobis/Untitled-2_zpsgqxx5dq4.png)](https://www.python.org) [![](https://i413.photobucket.com/albums/pp211/ottobis/Untitled-23_zpssxku75i5.png)](http://perso.crans.org/besson/LICENSE.html) [![](https://i413.photobucket.com/albums/pp211/ottobis/Untitled-3_zpsd87pjrdr.png)](https://github.com/otavio-s-s/data_science/issues)
+[![](https://i413.photobucket.com/albums/pp211/ottobis/auhtor_zpsayaiye56.png)](https://www.linkedin.com/in/otavioss28/) [![](https://i413.photobucket.com/albums/pp211/ottobis/Untitled-2_zpsgqxx5dq4.png)](https://www.python.org) [![](https://i413.photobucket.com/albums/pp211/ottobis/Untitled-3_zpsd87pjrdr.png)](https://github.com/otavio-s-s/data_science/issues)
 
 
 
