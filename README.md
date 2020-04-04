@@ -6,7 +6,7 @@
   <img src="/Images/banner.png" >
 </p>
 
-[NELGISH BELOW]
+[ENLGISH BELOW]
 
 ## Sobre mim:
 
