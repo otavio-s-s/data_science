@@ -17,8 +17,8 @@ Sinta-se à vontade para entrar em contato comigo, fazer sugestões ou propor no
 
 ## About me:
 
-My name is Otávio Silveira, Im graduated in Economic Sciences from the Federal University of Viçosa and aspiring data scientist. In this repository you will find my Data Science projects. You will find the list of projects below. 
-Feel free to contact me, make suggestions or propose new ideas for projects.
+My name is Otávio Silveira, I'm graduated in Economic Sciences from the Federal University of Viçosa and aspiring data scientist. In this repository you will find my Data Science projects. You will find the list of projects below. 
+Feel free to contact me, make suggestions or propose new projects.
 
 ***
 
