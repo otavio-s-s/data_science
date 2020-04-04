@@ -1,5 +1,9 @@
 # The Data Science Path
 
+<p align='center'>
+  <img scr='banner.png'
+       </p>
+
 Hello there!
 
 I am an economist from Brazil who is learnign data analysis with Python. In this repository will find the projects I've developed for learning purposes.
