@@ -1,4 +1,4 @@
-[![](https://badgen.net/badge/author/otavio-s-s/blue)](https://www.linkedin.com/in/otavioss28/) [![](https://i413.photobucket.com/albums/pp211/ottobis/Untitled-2_zpsgqxx5dq4.png)](https://www.python.org) [![](https://i413.photobucket.com/albums/pp211/ottobis/Untitled-3_zpsd87pjrdr.png)](https://github.com/otavio-s-s/data_science/issues)
+[![](https://badgen.net/badge/Author/otavio-s-s/blue)](https://www.linkedin.com/in/otavioss28/) [![](https://badgen.net/badge/Python/3.7+/yellow)](https://www.python.org) [![](https://badgen.net/badge/Contribution/Welcome/green)](https://github.com/otavio-s-s/data_science/issues)
 
 
 
