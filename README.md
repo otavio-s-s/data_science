@@ -1,7 +1,6 @@
 <p align="center">
   <img src="/Images/banner.png" >
 </p>
-<a href="https://www.freepik.com/free-photos-vectors/background">Background vector created by starline - www.freepik.com</a>
 
 
 Hello there!
@@ -19,3 +18,7 @@ Eu sou um economista brasileiro que está aprendendo análise de dados com Pytho
 Esse repositório estará sempre em construção, à medida que continuo me aprofundando e desenvolvendo análises mais complexas.
 A maior parte do conteúdo está inglês para que tenha maior alcance e, ao mesmo tempo, para que eu possa me manter em contato com o idioma praticando a escrita.
 Sinta-se à vontade para entrar em contato comigo, fazer sugestões ou propor novas idéias para projetos.
+
+
+Cover:
+<a href="https://www.freepik.com/free-photos-vectors/background">Background vector created by starline - www.freepik.com</a>
