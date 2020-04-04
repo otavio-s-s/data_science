@@ -1,3 +1,7 @@
+[![author](https://i413.photobucket.com/albums/pp211/ottobis/auhtor_zpsfpoi98ld.png)](https://www.linkedin.com/in/otavioss28/) [![](https://i413.photobucket.com/albums/pp211/ottobis/Untitled-2_zpsgqxx5dq4.png)](https://www.python.org) [![GPLv3 license](https://i413.photobucket.com/albums/pp211/ottobis/Untitled-23_zpssxku75i5.png)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://i413.photobucket.com/albums/pp211/ottobis/Untitled-3_zps4cb8zibk.png)](https://github.com/carlosfab/data_science/issues)
+
+
+
 <p align="center">
   <img src="/Images/banner.png" >
 </p>
