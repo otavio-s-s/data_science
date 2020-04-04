@@ -1,7 +1,9 @@
 # The Data Science Path
 
 <p align="center">
-  <img scr="/Images/banner.png" >
+  <img src="/Images/banner.png" >
+</p>
+
 
 
 Hello there!
