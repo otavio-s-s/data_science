@@ -1,4 +1,4 @@
-[![](https://i413.photobucket.com/albums/pp211/ottobis/auhtor_zpsayaiye56.png)](https://www.linkedin.com/in/otavioss28/) [![](https://i413.photobucket.com/albums/pp211/ottobis/Untitled-2_zpsgqxx5dq4.png)](https://www.python.org) [![](https://i413.photobucket.com/albums/pp211/ottobis/Untitled-3_zpsd87pjrdr.png)](https://github.com/otavio-s-s/data_science/issues)
+[![](https://badgen.net/badge/author/otavio-s-s/blue)](https://www.linkedin.com/in/otavioss28/) [![](https://i413.photobucket.com/albums/pp211/ottobis/Untitled-2_zpsgqxx5dq4.png)](https://www.python.org) [![](https://i413.photobucket.com/albums/pp211/ottobis/Untitled-3_zpsd87pjrdr.png)](https://github.com/otavio-s-s/data_science/issues)
 
 
 
@@ -6,7 +6,7 @@
   <img src="/Images/banner.png" >
 </p>
 
-[ENLGISH BELOW]
+[ENGLISH BELOW]
 
 ## Sobre mim:
 
