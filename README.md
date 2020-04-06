@@ -28,6 +28,7 @@ Projects in Jupyter Notebook:
 * Analysing COVID-19 Data Repository by Johns Hopkins CSSE - https://bit.ly/2whlTVR
 * Profitable App Profile Analysis for the App Store and Google Play - https://bit.ly/3aJRkXG
 * Analysing FiveThirtyEight's 2014 Star Wars Survey - https://bit.ly/2X7cpaG
+* Analyzing CIA World Factbook with SQL - https://bit.ly/39QUPKx
 
 ***
 
