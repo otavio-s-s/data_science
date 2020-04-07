@@ -29,6 +29,7 @@ Projects in Jupyter Notebook:
 * Profitable App Profile Analysis for the App Store and Google Play - https://bit.ly/3aJRkXG
 * Analysing FiveThirtyEight's 2014 Star Wars Survey - https://bit.ly/2X7cpaG
 * Analyzing CIA World Factbook with SQL - https://bit.ly/39QUPKx
+* The Best Hour of the Day to Post on Hacker News - Analyzing the Posts' Data - https://bit.ly/2yHmsZS
 
 ***
 
