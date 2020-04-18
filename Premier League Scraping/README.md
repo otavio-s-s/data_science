@@ -5,7 +5,7 @@
 
 The code was made to scrap data from each Premier League game in the 2019/20 season before the league was suspended because of the COVID-19.
 
-## Prerequisites
+### Prerequisites
 
 * Python 3+
 * Google Chrome (or another browser you prefer)
@@ -15,7 +15,7 @@ The code was made to scrap data from each Premier League game in the 2019/20 sea
   * [selenium](https://selenium-python.readthedocs.io/installation.html)
   * [beautfulsoup4](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
   
- ## Running the code
+ ### Running the code
  `python PL_scraper.py`
   
  *** 
