@@ -7,7 +7,7 @@ from selenium.webdriver.common.by import By
 from time import sleep
 import pandas as pd
 
-with open('PL_scraped.csv', mode='w') as file:
+with open('PL_scraped.csv', mode='w', encoding='utf-8') as file:
     file.write('season,match_week,date,kickoff,referee,stadium,attendance,home,away,home_score,away_score,'
                'home_ht_score,away_ht_score,home_goals,away_goals,home_yellow_pl,away_yellow_pl,'
                'home_red_pl,away_red_pl,home_posse,away_posse,home_shotsON,away_shotsON,home_shots,away_shots,'
@@ -194,7 +194,7 @@ for i in range(46605, 46895):
                               'Home Team': home, 'Away Team': away}
         continue
 
-    with open('PL_scraped.csv', mode='a') as file:
+    with open('PL_scraped.csv', mode='a', encoding='utf-8') as file:
         file.write(
             season + ',' + match_week + ',' + date + ',' + kickoff + ',' + ref + ',' + stadium + ',' + att + ',' +
             home + ',' + away + ',' + home_score + ',' + away_score + ',' + home_ht_score + ',' + away_ht_score + ',' +
