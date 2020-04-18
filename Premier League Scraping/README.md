@@ -19,4 +19,4 @@ The code was made to scrap data from each Premier League game in the 2019/20 sea
  `python PL_scraper.py`
   
  *** 
-Feel free to contribute to the project.
+Feel free to contribut.
