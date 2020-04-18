@@ -31,6 +31,10 @@ Projects in Jupyter Notebook:
 * Analyzing CIA World Factbook with SQL - https://bit.ly/39QUPKx
 * The Best Hour of the Day to Post on Hacker News - Analyzing the Posts' Data - https://bit.ly/2yHmsZS
 
+Web Scraping projects:
+
+* Premier League Scraper - https://bit.ly/2ylK3PJ
+
 ***
 
 Cover:
