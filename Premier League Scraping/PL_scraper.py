@@ -7,13 +7,15 @@ from selenium.webdriver.common.by import By
 from time import sleep
 import pandas as pd
 
+# Writing the header in the.csv file
 with open('PL_scraped.csv', mode='w', encoding='utf-8') as file:
-    file.write('season,match_week,date,kickoff,referee,stadium,attendance,home,away,home_score,away_score,'
+    file.write('season,match_week,date,kickoff,referee,stadium,city,attendance,home,away,home_score,away_score,'
                'home_ht_score,away_ht_score,home_goals,away_goals,home_yellow_pl,away_yellow_pl,'
                'home_red_pl,away_red_pl,home_posse,away_posse,home_shotsON,away_shotsON,home_shots,away_shots,'
                'home_passes,away_passes,home_corners,away_corners,home_offsides,away_offsides,'
                'home_yellows,away_yellows,home_reds,away_reds,home_fouls,away_fouls,home_lineup,away_lineup\n')
 
+# Setting up the error counter
 errors = 0
 error_dict = {}
 
@@ -54,8 +56,10 @@ for i in range(46605, 46895):
             "//div[@class='matchInfo']//div[@class='matchDate renderMatchDateContainer']").text
         ref = soup.find('div', class_='referee').text.strip()
         kickoff = driver.find_element_by_xpath("//strong[@class='renderKOContainer']").text
-        stadium = soup.find('div', class_='stadium').text.replace(',', '-')
-        att = soup.find('div', class_='attendance').text.replace(',', '')
+        stadium_city = soup.find('div', class_='stadium').text.replace(',', '-')
+        stadium = stadium_city.split('- ')[0]
+        city = stadium_city.split('- ')[1]
+        att = soup.find('div', class_='attendance').text.replace(',', '').replace('Att: ', '')
         home_score = soup.find('div', class_="matchScoreContainer").text.strip()[0]
         away_score = soup.find('div', class_='matchScoreContainer').text.strip()[2]
         home_ht_score = soup.find('div', class_='halfTime').text.replace('HT:', '').replace('Half Time:', '').strip()[0]
@@ -187,18 +191,20 @@ for i in range(46605, 46895):
 
         driver.quit()
 
+    # Dealing with games that have not taken place yet
     except:
         print('\033[1;31mERROR!\033[m')
         errors += 1
         error_dict[errors] = {'Match Number': i, 'Season': season, 'Match Week': match_week,
                               'Home Team': home, 'Away Team': away}
         continue
-
+        
+    # Writing the dta in the .csv file
     with open('PL_scraped.csv', mode='a', encoding='utf-8') as file:
         file.write(
-            season + ',' + match_week + ',' + date + ',' + kickoff + ',' + ref + ',' + stadium + ',' + att + ',' +
-            home + ',' + away + ',' + home_score + ',' + away_score + ',' + home_ht_score + ',' + away_ht_score + ',' +
-            goals[0] + ',' + goals[1] + ',' + yellow_cards[0] + ',' + yellow_cards[1] + ',' +
+            season + ',' + match_week + ',' + date + ',' + kickoff + ',' + ref + ',' + stadium + ',' + city
+            + ',' + att + ',' + home + ',' + away + ',' + home_score + ',' + away_score + ',' + home_ht_score + ',' +
+            away_ht_score + ',' + goals[0] + ',' + goals[1] + ',' + yellow_cards[0] + ',' + yellow_cards[1] + ',' +
             red_cards[0] + ',' + red_cards[1] + ',' + home_stats["home_possession_%"] + ',' +
             away_stats["away_possession_%"] + ',' + home_stats["home_shots_on_target"] + ',' +
             away_stats["away_shots_on_target"] + ',' + home_stats["home_shots"] + ',' + away_stats["away_shots"] + ',' +
