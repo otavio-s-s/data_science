@@ -24,17 +24,17 @@ Feel free to contact me, make suggestions or propose new projects.
 
 Projects in Jupyter Notebook:
 
-* Analysing COVID-19 Data Repository by Johns Hopkins CSSE - https://bit.ly/2whlTVR
-* The Best Hour of the Day to Post on Hacker News - Analyzing the Posts' Data - https://bit.ly/2yHmsZS
-* Business Insights with SQL - https://bit.ly/2yOWyUy
-* Profitable App Profile Analysis for the App Store and Google Play - https://bit.ly/3aJRkXG
-* Analysing FiveThirtyEight's 2014 Star Wars Survey - https://bit.ly/2X7cpaG
-* Analyzing CIA World Factbook with SQL - https://bit.ly/39QUPKx
+* [Analysing COVID-19 Data Repository by Johns Hopkins CSSE](https://bit.ly/2whlTVR)
+* [The Best Hour of the Day to Post on Hacker News - Analyzing the Posts' Data](https://bit.ly/2yHmsZS)
+* [Business Insights with SQL](https://bit.ly/2yOWyUy)
+* [Profitable App Profile Analysis for the App Store and Google Play](https://bit.ly/3aJRkXG)
+* [Analysing FiveThirtyEight's 2014 Star Wars Survey](https://bit.ly/2X7cpaG)
+* [Analyzing CIA World Factbook with SQL](https://bit.ly/39QUPKx)
 
 
 Web Scraping projects:
 
-* Premier League Scraper - https://bit.ly/2ylK3PJ
+* [Premier League Scraper](https://bit.ly/2ylK3PJ)
 
 ***
 
