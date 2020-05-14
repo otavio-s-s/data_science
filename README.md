@@ -3,9 +3,7 @@
 
 <img align="center" src="i/Images/banner.pn" >
 
-<p align="center">
-  <img src="/Images/banner.png" >
-</p>
+
 
 
 ## Sobre mim:
