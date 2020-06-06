@@ -13,7 +13,7 @@ Os dados utilizados nos projetos podem ser encontrados [aqui.](https://github.co
 Sinta-se à vontade para entrar em contato comigo, fazer sugestões ou propor novas idéias para projetos.
 
 ***
-Projects em Jupyter Notebooks:
+Projetos em Jupyter Notebooks:
 
 * [Analysing New York City Airbnb Data](https://github.com/otavio-s-s/data_science/blob/master/Analysing%20New%20York%20City%20Airbnb%20Data.ipynb)
 * [The Best Hour of the Day to Post on Hacker News - Analyzing the Posts' Data](https://bit.ly/2yHmsZS)
