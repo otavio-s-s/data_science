@@ -27,7 +27,7 @@ Projetos de web scraping:
 
 * [Premier League Scraper](https://bit.ly/2ylK3PJ)
 
-Publicações no Medium: [otavios.s](https://medium.com/@otavios.s)
+[Publicações no Medium](https://medium.com/@otavios.s)
 ***
 
 ## About me:
@@ -52,7 +52,7 @@ Web scraping projects:
 
 * [Premier League Scraper](https://bit.ly/2ylK3PJ)
 
-Stories on Medium: [otavios.s](https://medium.com/@otavios.s)
+[Stories on Medium](https://medium.com/@otavios.s)
 ***
 
 Cover:
