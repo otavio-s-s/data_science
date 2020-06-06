@@ -13,6 +13,22 @@ Os dados utilizados nos projetos podem ser encontrados [aqui.](https://github.co
 Sinta-se à vontade para entrar em contato comigo, fazer sugestões ou propor novas idéias para projetos.
 
 ***
+Projects em Jupyter Notebooks:
+
+* [Analysing New York City Airbnb Data](https://github.com/otavio-s-s/data_science/blob/master/Analysing%20New%20York%20City%20Airbnb%20Data.ipynb)
+* [The Best Hour of the Day to Post on Hacker News - Analyzing the Posts' Data](https://bit.ly/2yHmsZS)
+* [Business Insights with SQL](https://bit.ly/2yOWyUy)
+* [Profitable App Profile Analysis for the App Store and Google Play](https://bit.ly/3aJRkXG)
+* [Analysing FiveThirtyEight's 2014 Star Wars Survey](https://bit.ly/2X7cpaG)
+* [Analyzing CIA World Factbook with SQL](https://bit.ly/39QUPKx)
+
+
+Projetos de web scraping:
+
+* [Premier League Scraper](https://bit.ly/2ylK3PJ)
+
+Publicações no Medium: [otavios.s](https://medium.com/@otavios.s)
+***
 
 ## About me:
 
@@ -24,7 +40,7 @@ Feel free to contact me, make suggestions or propose new projects.
 
 Projects in Jupyter Notebook:
 
-* [Analysing COVID-19 Data Repository by Johns Hopkins CSSE](https://bit.ly/2whlTVR)
+* [Analysing New York City Airbnb Data](https://github.com/otavio-s-s/data_science/blob/master/Analysing%20New%20York%20City%20Airbnb%20Data.ipynb)
 * [The Best Hour of the Day to Post on Hacker News - Analyzing the Posts' Data](https://bit.ly/2yHmsZS)
 * [Business Insights with SQL](https://bit.ly/2yOWyUy)
 * [Profitable App Profile Analysis for the App Store and Google Play](https://bit.ly/3aJRkXG)
@@ -32,10 +48,11 @@ Projects in Jupyter Notebook:
 * [Analyzing CIA World Factbook with SQL](https://bit.ly/39QUPKx)
 
 
-Web Scraping projects:
+Web scraping projects:
 
 * [Premier League Scraper](https://bit.ly/2ylK3PJ)
 
+Stories on Medium: [otavios.s](https://medium.com/@otavios.s)
 ***
 
 Cover:
