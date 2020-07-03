@@ -15,6 +15,7 @@ Sinta-se à vontade para entrar em contato comigo, fazer sugestões ou propor no
 ***
 Projetos em Jupyter Notebooks:
 
+* [Credit Card Fraud Detection](https://github.com/otavio-s-s/data_science/blob/master/Credit%20Card%20Fraud%20Detection.ipynb)
 * [Analisando Dados Sobre a Violência no Rio de Janeiro](https://github.com/otavio-s-s/data_science/blob/master/Analisando%20Dados%20Sobre%20a%20Viol%C3%AAncia%20no%20Rio%20de%20Janeiro.ipynb)
 * [COVID-19: The Scenario in Brazil and the World](https://github.com/otavio-s-s/data_science/blob/master/COVID_19_The_Scenario_in_Brazil_and_the_World.ipynb)
 * [Analysing New York City Airbnb Data](https://github.com/otavio-s-s/data_science/blob/master/Analysing%20New%20York%20City%20Airbnb%20Data.ipynb)
@@ -43,6 +44,7 @@ Feel free to contact me, make suggestions or propose new projects.
 
 Projects in Jupyter Notebook:
 
+* [Credit Card Fraud Detection](https://github.com/otavio-s-s/data_science/blob/master/Credit%20Card%20Fraud%20Detection.ipynb)
 * [COVID-19: The Scenario in Brazil and the World](https://github.com/otavio-s-s/data_science/blob/master/COVID_19_The_Scenario_in_Brazil_and_the_World.ipynb)
 * [Analysing New York City Airbnb Data](https://github.com/otavio-s-s/data_science/blob/master/Analysing%20New%20York%20City%20Airbnb%20Data.ipynb)
 * [The Best Hour of the Day to Post on Hacker News - Analyzing the Posts' Data](https://bit.ly/2yHmsZS)
