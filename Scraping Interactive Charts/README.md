@@ -3,6 +3,7 @@
 # Scraping Interactive Charts
 
 The code was made to scrap data from interactive charts, such as the chart in the image below. You can read more about it on this [Towards Data Science article](https://towardsdatascience.com/scraping-interactive-charts-with-python-2bc20a9c7f5c) and on this [Data Hackers article](https://medium.com/data-hackers/scraping-em-gr%C3%A1ficos-interativos-com-python-92e7a70d1e64) (Portuguese).
+
 ![](https://miro.medium.com/max/600/1*sH6l2IyI2I2e9iIioQLllA.gif)
 
 ### Prerequisites
