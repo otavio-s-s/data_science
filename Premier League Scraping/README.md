@@ -3,7 +3,7 @@
 # Premier League Scraper
 
 
-The code was made to scrap data from each Premier League game in the 2019/20 season before the league was suspended because of the COVID-19.
+The code was made to scrap data from each Premier League game in the 2019/20 season before the league was suspended because of the COVID-19. You can see the data [here](https://github.com/otavio-s-s/data_science/blob/master/Premier%20League%20Scraping/PL_scraped.csv).
 
 ### Prerequisites
 
