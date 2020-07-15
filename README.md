@@ -32,8 +32,8 @@ Projetos de web scraping:
 * [Premier League Scraper](https://bit.ly/2ylK3PJ)
 
 ***
-[**Publicações no Medium**](https://medium.com/@otavios.s)
-[**Perfil no LinkedIn**](https://www.linkedin.com/in/otavioss28/)
+* [**Publicações no Medium**](https://medium.com/@otavios.s)
+* [**Perfil no LinkedIn**](https://www.linkedin.com/in/otavioss28/)
 ***
 
 ## About me:
@@ -63,8 +63,8 @@ Web scraping projects:
 * [Premier League Scraper](https://bit.ly/2ylK3PJ)
 
 ***
-[**Stories on Medium**](https://medium.com/@otavios.s)
-[**LinkedIn profile**](https://www.linkedin.com/in/otavioss28/)
+* [**Stories on Medium**](https://medium.com/@otavios.s)
+* [**LinkedIn profile**](https://www.linkedin.com/in/otavioss28/)
 ***
 
 Cover:
