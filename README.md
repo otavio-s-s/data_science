@@ -33,6 +33,7 @@ Projetos de web scraping:
 
 ***
 [**Publicações no Medium**](https://medium.com/@otavios.s)
+[**Perfil no LinkedIn**](https://www.linkedin.com/in/otavioss28/)
 ***
 
 ## About me:
@@ -63,6 +64,7 @@ Web scraping projects:
 
 ***
 [**Stories on Medium**](https://medium.com/@otavios.s)
+[**LinkedIn profile**](https://www.linkedin.com/in/otavioss28/)
 ***
 
 Cover:
