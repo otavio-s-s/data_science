@@ -14,6 +14,7 @@ Sinta-se à vontade para entrar em contato comigo, fazer sugestões ou propor no
 
 ***
 Projetos em Jupyter Notebooks:
+* [Análise de Risco de Crédito com Machine Learning](https://github.com/otavio-s-s/data_science/blob/master/An%C3%A1lise%20de%20Risco%20de%20Cr%C3%A9dito%20com%20Machine%20Learning.ipynb)
 * [Machine Learning for Churn Prediction](https://github.com/otavio-s-s/data_science/blob/master/Machine%20Learning%20for%20Churn%20Prediction.ipynb)
 * [Credit Card Fraud Detection](https://github.com/otavio-s-s/data_science/blob/master/Credit%20Card%20Fraud%20Detection.ipynb)
 * [Analisando Dados Sobre a Violência no Rio de Janeiro](https://github.com/otavio-s-s/data_science/blob/master/Analisando%20Dados%20Sobre%20a%20Viol%C3%AAncia%20no%20Rio%20de%20Janeiro.ipynb)
