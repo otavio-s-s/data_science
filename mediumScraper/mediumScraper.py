@@ -1,4 +1,3 @@
-
 def scraper(url, year):
     import pandas as pd
     from bs4 import BeautifulSoup
