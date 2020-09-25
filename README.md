@@ -30,6 +30,7 @@ Projetos em Jupyter Notebooks:
 Projetos de web scraping:
 
 * [Scraping Interactive Charts](https://github.com/otavio-s-s/data_science/tree/master/Scraping%20Interactive%20Charts)
+* [Medium Scraper](https://github.com/otavio-s-s/data_science/tree/master/mediumScraper)
 * [Premier League Scraper](https://bit.ly/2ylK3PJ)
 
 ***
@@ -61,6 +62,7 @@ Projects in Jupyter Notebook:
 Web scraping projects:
 
 * [Scraping Interactive Charts](https://github.com/otavio-s-s/data_science/tree/master/Scraping%20Interactive%20Charts)
+* [Medium Scraper](https://github.com/otavio-s-s/data_science/tree/master/mediumScraper)
 * [Premier League Scraper](https://bit.ly/2ylK3PJ)
 
 ***
