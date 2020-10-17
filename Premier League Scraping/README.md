@@ -3,7 +3,7 @@
 # Premier League Scraper
 
 
-The code was made to scrap data from each Premier League game in the 2019/20 season before the league was suspended because of the COVID-19. You can see the data [here](https://github.com/otavio-s-s/data_science/blob/master/Premier%20League%20Scraping/PL_scraped.csv).
+The code was made to scrape data from each Premier League game in the 2019/20 season. You can see the data [here](https://github.com/otavio-s-s/data_science/blob/master/Premier%20League%20Scraping/PL_scraped.csv).
 
 ### Prerequisites
 
@@ -13,10 +13,9 @@ The code was made to scrap data from each Premier League game in the 2019/20 sea
 * The following Python libraries:
   * [pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html)
   * [selenium](https://selenium-python.readthedocs.io/installation.html)
-  * [beautfulsoup4](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
   
  ### Running the code
- `python PL_scraper.py`
+ `python Premier_league_scraper.py`
   
  *** 
 Feel free to contribute.
