@@ -1,0 +1,3418 @@
+﻿PL_id,home_team,away_team
+7467,Blackburn Rovers,Wolverhampton Wanderers
+7468,Fulham,Aston Villa
+7469,Liverpool,Sunderland
+7470,Newcastle United,Arsenal
+7471,Queens Park Rangers,Bolton Wanderers
+7472,Wigan Athletic,Norwich City
+7473,Stoke City,Chelsea
+7474,West Bromwich Albion,Manchester United
+7475,Manchester City,Swansea City
+7476,Arsenal,Liverpool
+7477,Aston Villa,Blackburn Rovers
+7478,Chelsea,West Bromwich Albion
+7479,Everton,Queens Park Rangers
+7480,Sunderland,Newcastle United
+7481,Swansea City,Wigan Athletic
+7482,Bolton Wanderers,Manchester City
+7483,Norwich City,Stoke City
+7484,Wolverhampton Wanderers,Fulham
+7485,Manchester United,Tottenham Hotspur
+7486,Aston Villa,Wolverhampton Wanderers
+7487,Blackburn Rovers,Everton
+7488,Chelsea,Norwich City
+7489,Liverpool,Bolton Wanderers
+7490,Swansea City,Sunderland
+7491,Wigan Athletic,Queens Park Rangers
+7492,Manchester United,Arsenal
+7493,Newcastle United,Fulham
+7494,Tottenham Hotspur,Manchester City
+7495,West Bromwich Albion,Stoke City
+7496,Arsenal,Swansea City
+7497,Bolton Wanderers,Manchester United
+7498,Everton,Aston Villa
+7499,Manchester City,Wigan Athletic
+7500,Stoke City,Liverpool
+7501,Sunderland,Chelsea
+7502,Wolverhampton Wanderers,Tottenham Hotspur
+7503,Fulham,Blackburn Rovers
+7504,Norwich City,West Bromwich Albion
+7505,Queens Park Rangers,Newcastle United
+7506,Aston Villa,Newcastle United
+7507,Blackburn Rovers,Arsenal
+7508,Bolton Wanderers,Norwich City
+7509,Everton,Wigan Athletic
+7510,Swansea City,West Bromwich Albion
+7511,Wolverhampton Wanderers,Queens Park Rangers
+7512,Fulham,Manchester City
+7513,Manchester United,Chelsea
+7514,Sunderland,Stoke City
+7515,Tottenham Hotspur,Liverpool
+7516,Arsenal,Bolton Wanderers
+7517,Chelsea,Swansea City
+7518,Liverpool,Wolverhampton Wanderers
+7519,Manchester City,Everton
+7520,Newcastle United,Blackburn Rovers
+7521,Stoke City,Manchester United
+7522,West Bromwich Albion,Fulham
+7523,Wigan Athletic,Tottenham Hotspur
+7524,Queens Park Rangers,Aston Villa
+7525,Norwich City,Sunderland
+7526,Aston Villa,Wigan Athletic
+7527,Blackburn Rovers,Manchester City
+7528,Everton,Liverpool
+7529,Manchester United,Norwich City
+7530,Sunderland,West Bromwich Albion
+7531,Wolverhampton Wanderers,Newcastle United
+7532,Bolton Wanderers,Chelsea
+7533,Fulham,Queens Park Rangers
+7534,Swansea City,Stoke City
+7535,Tottenham Hotspur,Arsenal
+7536,Chelsea,Everton
+7537,Liverpool,Manchester United
+7538,Manchester City,Aston Villa
+7539,Norwich City,Swansea City
+7540,Queens Park Rangers,Blackburn Rovers
+7541,Stoke City,Fulham
+7542,Wigan Athletic,Bolton Wanderers
+7543,Arsenal,Sunderland
+7544,Newcastle United,Tottenham Hotspur
+7545,West Bromwich Albion,Wolverhampton Wanderers
+7546,Aston Villa,West Bromwich Albion
+7547,Bolton Wanderers,Sunderland
+7548,Liverpool,Norwich City
+7549,Newcastle United,Wigan Athletic
+7550,Wolverhampton Wanderers,Swansea City
+7551,Arsenal,Stoke City
+7552,Blackburn Rovers,Tottenham Hotspur
+7553,Fulham,Everton
+7554,Manchester United,Manchester City
+7555,Queens Park Rangers,Chelsea
+7556,Chelsea,Arsenal
+7557,Everton,Manchester United
+7558,Manchester City,Wolverhampton Wanderers
+7559,Norwich City,Blackburn Rovers
+7560,Sunderland,Aston Villa
+7561,Swansea City,Bolton Wanderers
+7562,West Bromwich Albion,Liverpool
+7563,Wigan Athletic,Fulham
+7564,Tottenham Hotspur,Queens Park Rangers
+7565,Stoke City,Newcastle United
+7566,Arsenal,West Bromwich Albion
+7567,Aston Villa,Norwich City
+7568,Blackburn Rovers,Chelsea
+7569,Liverpool,Swansea City
+7570,Manchester United,Sunderland
+7571,Newcastle United,Everton
+7572,Queens Park Rangers,Manchester City
+7573,Bolton Wanderers,Stoke City
+7574,Fulham,Tottenham Hotspur
+7575,Wolverhampton Wanderers,Wigan Athletic
+7576,Everton,Wolverhampton Wanderers
+7578,Norwich City,Arsenal
+7579,Stoke City,Queens Park Rangers
+7580,Sunderland,Fulham
+7581,Swansea City,Manchester United
+7582,West Bromwich Albion,Bolton Wanderers
+7583,Wigan Athletic,Blackburn Rovers
+7584,Chelsea,Liverpool
+7585,Tottenham Hotspur,Aston Villa
+7577,Manchester City,Newcastle United
+7586,Arsenal,Fulham
+7587,Bolton Wanderers,Everton
+7588,Chelsea,Wolverhampton Wanderers
+7589,Manchester United,Newcastle United
+7590,Norwich City,Queens Park Rangers
+7591,Stoke City,Blackburn Rovers
+7592,Sunderland,Wigan Athletic
+7593,West Bromwich Albion,Tottenham Hotspur
+7594,Liverpool,Manchester City
+7595,Swansea City,Aston Villa
+7596,Aston Villa,Manchester United
+7597,Blackburn Rovers,Swansea City
+7598,Manchester City,Norwich City
+7599,Newcastle United,Chelsea
+7600,Queens Park Rangers,West Bromwich Albion
+7601,Tottenham Hotspur,Bolton Wanderers
+7602,Wigan Athletic,Arsenal
+7603,Everton,Stoke City
+7604,Wolverhampton Wanderers,Sunderland
+7605,Fulham,Liverpool
+7606,Arsenal,Everton
+7607,Bolton Wanderers,Aston Villa
+7608,Liverpool,Queens Park Rangers
+7609,Manchester United,Wolverhampton Wanderers
+7610,Norwich City,Newcastle United
+7611,Swansea City,Fulham
+7612,West Bromwich Albion,Wigan Athletic
+7613,Stoke City,Tottenham Hotspur
+7614,Sunderland,Blackburn Rovers
+7615,Chelsea,Manchester City
+7616,Blackburn Rovers,West Bromwich Albion
+7617,Everton,Norwich City
+7618,Fulham,Bolton Wanderers
+7619,Newcastle United,Swansea City
+7620,Wigan Athletic,Chelsea
+7621,Wolverhampton Wanderers,Stoke City
+7622,Aston Villa,Liverpool
+7623,Manchester City,Arsenal
+7624,Queens Park Rangers,Manchester United
+7625,Tottenham Hotspur,Sunderland
+7626,Blackburn Rovers,Bolton Wanderers
+7627,Wolverhampton Wanderers,Norwich City
+7628,Aston Villa,Arsenal
+7629,Everton,Swansea City
+7630,Fulham,Manchester United
+7631,Manchester City,Stoke City
+7632,Newcastle United,West Bromwich Albion
+7633,Queens Park Rangers,Sunderland
+7634,Wigan Athletic,Liverpool
+7635,Tottenham Hotspur,Chelsea
+7636,Bolton Wanderers,Newcastle United
+7637,Chelsea,Fulham
+7638,Liverpool,Blackburn Rovers
+7639,Manchester United,Wigan Athletic
+7640,Stoke City,Aston Villa
+7641,Sunderland,Everton
+7642,West Bromwich Albion,Manchester City
+7643,Arsenal,Wolverhampton Wanderers
+7644,Norwich City,Tottenham Hotspur
+7645,Swansea City,Queens Park Rangers
+7646,Liverpool,Newcastle United
+7647,Arsenal,Queens Park Rangers
+7648,Bolton Wanderers,Wolverhampton Wanderers
+7649,Chelsea,Aston Villa
+7650,Manchester United,Blackburn Rovers
+7651,Norwich City,Fulham
+7652,Stoke City,Wigan Athletic
+7653,Swansea City,Tottenham Hotspur
+7654,Sunderland,Manchester City
+7655,West Bromwich Albion,Everton
+7656,Aston Villa,Swansea City
+7657,Blackburn Rovers,Stoke City
+7658,Fulham,Arsenal
+7659,Queens Park Rangers,Norwich City
+7660,Wolverhampton Wanderers,Chelsea
+7661,Manchester City,Liverpool
+7662,Tottenham Hotspur,West Bromwich Albion
+7663,Wigan Athletic,Sunderland
+7664,Everton,Bolton Wanderers
+7666,Tottenham Hotspur,Everton
+7665,Newcastle United,Manchester United
+7667,Aston Villa,Everton
+7668,Blackburn Rovers,Fulham
+7669,Chelsea,Sunderland
+7670,Liverpool,Stoke City
+7671,Manchester United,Bolton Wanderers
+7672,Tottenham Hotspur,Wolverhampton Wanderers
+7673,West Bromwich Albion,Norwich City
+7674,Newcastle United,Queens Park Rangers
+7675,Swansea City,Arsenal
+7676,Wigan Athletic,Manchester City
+7677,Bolton Wanderers,Liverpool
+7678,Everton,Blackburn Rovers
+7679,Fulham,Newcastle United
+7680,Norwich City,Chelsea
+7681,Queens Park Rangers,Wigan Athletic
+7682,Stoke City,West Bromwich Albion
+7683,Sunderland,Swansea City
+7684,Wolverhampton Wanderers,Aston Villa
+7685,Arsenal,Manchester United
+7686,Manchester City,Tottenham Hotspur
+7687,Everton,Manchester City
+7688,Manchester United,Stoke City
+7689,Swansea City,Chelsea
+7690,Tottenham Hotspur,Wigan Athletic
+7691,Wolverhampton Wanderers,Liverpool
+7692,Aston Villa,Queens Park Rangers
+7693,Blackburn Rovers,Newcastle United
+7694,Bolton Wanderers,Arsenal
+7695,Fulham,West Bromwich Albion
+7696,Sunderland,Norwich City
+7697,Arsenal,Blackburn Rovers
+7698,Manchester City,Fulham
+7699,Norwich City,Bolton Wanderers
+7700,Queens Park Rangers,Wolverhampton Wanderers
+7701,Stoke City,Sunderland
+7702,West Bromwich Albion,Swansea City
+7703,Wigan Athletic,Everton
+7704,Chelsea,Manchester United
+7705,Newcastle United,Aston Villa
+7706,Liverpool,Tottenham Hotspur
+7707,Blackburn Rovers,Queens Park Rangers
+7708,Bolton Wanderers,Wigan Athletic
+7709,Everton,Chelsea
+7710,Fulham,Stoke City
+7711,Manchester United,Liverpool
+7712,Sunderland,Arsenal
+7714,Tottenham Hotspur,Newcastle United
+7715,Aston Villa,Manchester City
+7716,Wolverhampton Wanderers,West Bromwich Albion
+7713,Swansea City,Norwich City
+7717,Chelsea,Bolton Wanderers
+7718,Manchester City,Blackburn Rovers
+7719,Newcastle United,Wolverhampton Wanderers
+7720,Queens Park Rangers,Fulham
+7721,West Bromwich Albion,Sunderland
+7722,Wigan Athletic,Aston Villa
+7723,Arsenal,Tottenham Hotspur
+7724,Norwich City,Manchester United
+7725,Stoke City,Swansea City
+7726,Blackburn Rovers,Aston Villa
+7727,Liverpool,Arsenal
+7728,Manchester City,Bolton Wanderers
+7729,Queens Park Rangers,Everton
+7730,Stoke City,Norwich City
+7731,West Bromwich Albion,Chelsea
+7732,Wigan Athletic,Swansea City
+7733,Fulham,Wolverhampton Wanderers
+7734,Newcastle United,Sunderland
+7735,Tottenham Hotspur,Manchester United
+7736,Aston Villa,Fulham
+7737,Bolton Wanderers,Queens Park Rangers
+7738,Chelsea,Stoke City
+7739,Everton,Tottenham Hotspur
+7740,Sunderland,Liverpool
+7741,Wolverhampton Wanderers,Blackburn Rovers
+7742,Manchester United,West Bromwich Albion
+7743,Norwich City,Wigan Athletic
+7744,Swansea City,Manchester City
+7745,Arsenal,Newcastle United
+7746,Liverpool,Everton
+7747,Fulham,Swansea City
+7748,Wigan Athletic,West Bromwich Albion
+7749,Newcastle United,Norwich City
+7750,Wolverhampton Wanderers,Manchester United
+7751,Blackburn Rovers,Sunderland
+7752,Everton,Arsenal
+7753,Manchester City,Chelsea
+7754,Queens Park Rangers,Liverpool
+7755,Tottenham Hotspur,Stoke City
+7756,Arsenal,Aston Villa
+7758,Chelsea,Tottenham Hotspur
+7759,Liverpool,Wigan Athletic
+7760,Norwich City,Wolverhampton Wanderers
+7761,Stoke City,Manchester City
+7762,Sunderland,Queens Park Rangers
+7763,Swansea City,Everton
+7764,West Bromwich Albion,Newcastle United
+7765,Manchester United,Fulham
+7757,Bolton Wanderers,Blackburn Rovers
+7766,Aston Villa,Chelsea
+7767,Everton,West Bromwich Albion
+7768,Fulham,Norwich City
+7769,Manchester City,Sunderland
+7770,Queens Park Rangers,Arsenal
+7771,Wigan Athletic,Stoke City
+7772,Wolverhampton Wanderers,Bolton Wanderers
+7773,Newcastle United,Liverpool
+7774,Tottenham Hotspur,Swansea City
+7775,Blackburn Rovers,Manchester United
+7776,Swansea City,Newcastle United
+7777,Bolton Wanderers,Fulham
+7778,Chelsea,Wigan Athletic
+7779,Liverpool,Aston Villa
+7780,Norwich City,Everton
+7781,Stoke City,Wolverhampton Wanderers
+7782,Sunderland,Tottenham Hotspur
+7783,West Bromwich Albion,Blackburn Rovers
+7784,Arsenal,Manchester City
+7785,Manchester United,Queens Park Rangers
+7786,Aston Villa,Stoke City
+7787,Everton,Sunderland
+7788,Fulham,Chelsea
+7789,Newcastle United,Bolton Wanderers
+7790,Tottenham Hotspur,Norwich City
+7791,Blackburn Rovers,Liverpool
+7792,Manchester City,West Bromwich Albion
+7793,Queens Park Rangers,Swansea City
+7794,Wigan Athletic,Manchester United
+7795,Wolverhampton Wanderers,Arsenal
+7796,Norwich City,Manchester City
+7797,Sunderland,Wolverhampton Wanderers
+7798,Swansea City,Blackburn Rovers
+7799,West Bromwich Albion,Queens Park Rangers
+7800,Manchester United,Aston Villa
+7801,Arsenal,Wigan Athletic
+7802,Arsenal,Chelsea
+7803,Aston Villa,Sunderland
+7804,Blackburn Rovers,Norwich City
+7805,Bolton Wanderers,Swansea City
+7806,Fulham,Wigan Athletic
+7807,Newcastle United,Stoke City
+7808,Queens Park Rangers,Tottenham Hotspur
+7809,Liverpool,West Bromwich Albion
+7810,Manchester United,Everton
+7811,Wolverhampton Wanderers,Manchester City
+7812,Aston Villa,Bolton Wanderers
+7813,Everton,Fulham
+7814,Norwich City,Liverpool
+7815,Stoke City,Arsenal
+7816,Sunderland,Bolton Wanderers
+7818,West Bromwich Albion,Aston Villa
+7819,Wigan Athletic,Newcastle United
+7820,Chelsea,Queens Park Rangers
+7821,Tottenham Hotspur,Blackburn Rovers
+7822,Manchester City,Manchester United
+7823,Liverpool,Fulham
+7824,Stoke City,Everton
+7825,Bolton Wanderers,Tottenham Hotspur
+7826,Chelsea,Newcastle United
+7817,Swansea City,Wolverhampton Wanderers
+7827,Arsenal,Norwich City
+7828,Aston Villa,Tottenham Hotspur
+7829,Bolton Wanderers,West Bromwich Albion
+7830,Fulham,Sunderland
+7831,Manchester United,Swansea City
+7832,Newcastle United,Manchester City
+7833,Queens Park Rangers,Stoke City
+7834,Wolverhampton Wanderers,Everton
+7835,Blackburn Rovers,Wigan Athletic
+7836,Liverpool,Chelsea
+7837,Chelsea,Blackburn Rovers
+7838,Everton,Newcastle United
+7839,Manchester City,Queens Park Rangers
+7840,Norwich City,Aston Villa
+7841,Stoke City,Bolton Wanderers
+7842,Sunderland,Manchester United
+7843,Swansea City,Liverpool
+7844,Tottenham Hotspur,Fulham
+7845,West Bromwich Albion,Arsenal
+7846,Wigan Athletic,Wolverhampton Wanderers
+7864,Arsenal,Sunderland
+7865,Fulham,Norwich City
+7866,Newcastle United,Tottenham Hotspur
+7867,Queens Park Rangers,Swansea City
+7868,Reading,Stoke City
+7869,West Bromwich Albion,Liverpool
+7870,West Ham United,Aston Villa
+7871,Manchester City,Southampton
+7872,Wigan Athletic,Chelsea
+7873,Everton,Manchester United
+7874,Chelsea,Reading
+7875,Aston Villa,Everton
+7876,Chelsea,Newcastle United
+7877,Manchester United,Fulham
+7878,Norwich City,Queens Park Rangers
+7879,Southampton,Wigan Athletic
+7880,Swansea City,West Ham United
+7881,Tottenham Hotspur,West Bromwich Albion
+7882,Liverpool,Manchester City
+7883,Stoke City,Arsenal
+7884,Manchester City,Queens Park Rangers
+7885,Swansea City,Sunderland
+7886,Tottenham Hotspur,Norwich City
+7887,West Bromwich Albion,Everton
+7888,West Ham United,Fulham
+7889,Wigan Athletic,Stoke City
+7890,Liverpool,Arsenal
+7891,Newcastle United,Aston Villa
+7892,Southampton,Manchester United
+7893,Arsenal,Southampton
+7894,Aston Villa,Swansea City
+7895,Fulham,West Bromwich Albion
+7896,Manchester United,Wigan Athletic
+7897,Norwich City,West Ham United
+7898,Queens Park Rangers,Chelsea
+7899,Stoke City,Manchester City
+7900,Sunderland,Liverpool
+7901,Reading,Tottenham Hotspur
+7902,Everton,Newcastle United
+7903,Chelsea,Stoke City
+7904,Southampton,Aston Villa
+7905,Swansea City,Everton
+7906,West Bromwich Albion,Reading
+7907,West Ham United,Sunderland
+7908,Wigan Athletic,Fulham
+7909,Liverpool,Manchester United
+7910,Manchester City,Arsenal
+7911,Newcastle United,Norwich City
+7912,Tottenham Hotspur,Queens Park Rangers
+7913,Arsenal,Chelsea
+7914,Everton,Southampton
+7915,Fulham,Manchester City
+7916,Manchester United,Tottenham Hotspur
+7917,Norwich City,Liverpool
+7918,Reading,Newcastle United
+7919,Stoke City,Swansea City
+7920,Sunderland,Wigan Athletic
+7921,Aston Villa,West Bromwich Albion
+7922,Queens Park Rangers,West Ham United
+7923,Chelsea,Norwich City
+7924,Manchester City,Sunderland
+7925,Swansea City,Reading
+7926,West Bromwich Albion,Queens Park Rangers
+7927,West Ham United,Arsenal
+7928,Wigan Athletic,Everton
+7929,Liverpool,Stoke City
+7930,Newcastle United,Manchester United
+7931,Southampton,Fulham
+7932,Tottenham Hotspur,Aston Villa
+7933,Fulham,Aston Villa
+7934,Liverpool,Reading
+7935,Manchester United,Stoke City
+7936,Norwich City,Arsenal
+7937,Swansea City,Wigan Athletic
+7938,Tottenham Hotspur,Chelsea
+7939,West Bromwich Albion,Manchester City
+7940,West Ham United,Southampton
+7941,Queens Park Rangers,Everton
+7942,Sunderland,Newcastle United
+7943,Arsenal,Queens Park Rangers
+7944,Aston Villa,Norwich City
+7945,Manchester City,Swansea City
+7946,Reading,Fulham
+7947,Stoke City,Sunderland
+7948,Wigan Athletic,West Ham United
+7949,Chelsea,Manchester United
+7950,Everton,Liverpool
+7951,Newcastle United,West Bromwich Albion
+7952,Southampton,Tottenham Hotspur
+7953,Fulham,Everton
+7954,Manchester United,Arsenal
+7955,Norwich City,Stoke City
+7956,Sunderland,Aston Villa
+7957,Swansea City,Chelsea
+7958,Tottenham Hotspur,Wigan Athletic
+7959,West Ham United,Manchester City
+7960,Liverpool,Newcastle United
+7961,Queens Park Rangers,Reading
+7962,West Bromwich Albion,Southampton
+7963,Arsenal,Fulham
+7964,Aston Villa,Manchester United
+7965,Everton,Sunderland
+7966,Reading,Norwich City
+7967,Southampton,Swansea City
+7968,Stoke City,Queens Park Rangers
+7969,Wigan Athletic,West Bromwich Albion
+7970,Chelsea,Liverpool
+7971,Manchester City,Tottenham Hotspur
+7972,Newcastle United,West Ham United
+7973,Arsenal,Tottenham Hotspur
+7974,Liverpool,Wigan Athletic
+7975,Manchester City,Aston Villa
+7976,Newcastle United,Swansea City
+7977,Norwich City,Manchester United
+7978,Queens Park Rangers,Southampton
+7979,Reading,Everton
+7980,West Bromwich Albion,Chelsea
+7981,Fulham,Sunderland
+7982,West Ham United,Stoke City
+7983,Aston Villa,Arsenal
+7984,Everton,Norwich City
+7985,Manchester United,Queens Park Rangers
+7986,Stoke City,Fulham
+7987,Sunderland,West Bromwich Albion
+7988,Wigan Athletic,Reading
+7989,Chelsea,Manchester City
+7990,Southampton,Newcastle United
+7991,Swansea City,Liverpool
+7992,Tottenham Hotspur,West Ham United
+7993,Aston Villa,Reading
+7994,Sunderland,Queens Park Rangers
+7995,Chelsea,Fulham
+7996,Everton,Arsenal
+7997,Manchester United,West Ham United
+7998,Southampton,Norwich City
+7999,Stoke City,Newcastle United
+8000,Swansea City,West Bromwich Albion
+8001,Tottenham Hotspur,Liverpool
+8002,Wigan Athletic,Manchester City
+8003,Arsenal,Swansea City
+8004,Fulham,Tottenham Hotspur
+8005,Liverpool,Southampton
+8006,Manchester City,Everton
+8007,Queens Park Rangers,Aston Villa
+8008,Reading,Manchester United
+8009,West Bromwich Albion,Stoke City
+8010,West Ham United,Chelsea
+8011,Norwich City,Sunderland
+8012,Newcastle United,Wigan Athletic
+8013,Arsenal,West Bromwich Albion
+8014,Aston Villa,Stoke City
+8015,Southampton,Reading
+8016,Sunderland,Chelsea
+8017,Swansea City,Norwich City
+8018,Wigan Athletic,Queens Park Rangers
+8019,Everton,Tottenham Hotspur
+8020,Manchester City,Manchester United
+8021,West Ham United,Liverpool
+8022,Fulham,Newcastle United
+8023,Sunderland,Reading
+8024,Liverpool,Aston Villa
+8025,Manchester United,Sunderland
+8026,Newcastle United,Manchester City
+8027,Norwich City,Wigan Athletic
+8028,Queens Park Rangers,Fulham
+8029,Stoke City,Everton
+8030,Tottenham Hotspur,Swansea City
+8031,West Bromwich Albion,West Ham United
+8032,Reading,Arsenal
+8033,Liverpool,Fulham
+8034,Manchester City,Reading
+8035,Newcastle United,Queens Park Rangers
+8036,Southampton,Sunderland
+8037,Tottenham Hotspur,Stoke City
+8038,West Bromwich Albion,Norwich City
+8039,West Ham United,Everton
+8040,Wigan Athletic,Arsenal
+8041,Chelsea,Aston Villa
+8042,Swansea City,Manchester United
+8043,Aston Villa,Tottenham Hotspur
+8044,Everton,Wigan Athletic
+8045,Fulham,Southampton
+8046,Manchester United,Newcastle United
+8047,Norwich City,Chelsea
+8048,Queens Park Rangers,West Bromwich Albion
+8049,Reading,Swansea City
+8050,Stoke City,Liverpool
+8051,Sunderland,Manchester City
+8052,Arsenal,Newcastle United
+8053,Aston Villa,Wigan Athletic
+8054,Fulham,Swansea City
+8055,Manchester United,West Bromwich Albion
+8056,Norwich City,Manchester City
+8057,Reading,West Ham United
+8058,Stoke City,Southampton
+8059,Sunderland,Tottenham Hotspur
+8060,Everton,Chelsea
+8061,Queens Park Rangers,Liverpool
+8062,Manchester City,Stoke City
+8063,Southampton,Arsenal
+8064,Swansea City,Aston Villa
+8065,Tottenham Hotspur,Reading
+8066,West Bromwich Albion,Fulham
+8067,West Ham United,Norwich City
+8068,Wigan Athletic,Manchester United
+8069,Chelsea,Queens Park Rangers
+8070,Liverpool,Sunderland
+8071,Newcastle United,Everton
+8072,Aston Villa,Southampton
+8073,Everton,Swansea City
+8074,Fulham,Wigan Athletic
+8075,Norwich City,Newcastle United
+8076,Queens Park Rangers,Tottenham Hotspur
+8077,Reading,West Bromwich Albion
+8078,Stoke City,Chelsea
+8079,Sunderland,West Ham United
+8080,Arsenal,Manchester City
+8081,Manchester United,Liverpool
+8082,Chelsea,Southampton
+8083,Liverpool,Norwich City
+8084,Manchester City,Fulham
+8085,Newcastle United,Reading
+8086,Swansea City,Stoke City
+8087,West Bromwich Albion,Aston Villa
+8088,West Ham United,Queens Park Rangers
+8089,Wigan Athletic,Sunderland
+8091,Tottenham Hotspur,Manchester United
+8092,Southampton,Everton
+8093,Arsenal,West Ham United
+8090,Chelsea,Arsenal
+8094,Aston Villa,Newcastle United
+8095,Queens Park Rangers,Manchester City
+8096,Stoke City,Wigan Athletic
+8097,Sunderland,Swansea City
+8098,Arsenal,Liverpool
+8099,Everton,West Bromwich Albion
+8100,Fulham,West Ham United
+8101,Manchester United,Southampton
+8102,Norwich City,Tottenham Hotspur
+8103,Reading,Chelsea
+8104,Arsenal,Stoke City
+8106,Fulham,Manchester United
+8107,Newcastle United,Chelsea
+8108,Queens Park Rangers,Norwich City
+8109,Reading,Sunderland
+8110,West Ham United,Swansea City
+8111,Wigan Athletic,Southampton
+8112,Manchester City,Liverpool
+8113,West Bromwich Albion,Tottenham Hotspur
+8105,Everton,Aston Villa
+8114,Chelsea,Wigan Athletic
+8115,Norwich City,Fulham
+8116,Southampton,Manchester City
+8117,Stoke City,Reading
+8119,Swansea City,Queens Park Rangers
+8120,Tottenham Hotspur,Newcastle United
+8121,Aston Villa,West Ham United
+8122,Manchester United,Everton
+8123,Liverpool,West Bromwich Albion
+8124,Liverpool,Swansea City
+8118,Sunderland,Arsenal
+8125,Arsenal,Aston Villa
+8126,Fulham,Stoke City
+8127,Norwich City,Everton
+8128,Queens Park Rangers,Manchester United
+8129,Reading,Wigan Athletic
+8130,West Bromwich Albion,Sunderland
+8131,Manchester City,Chelsea
+8132,Newcastle United,Southampton
+8133,West Ham United,Tottenham Hotspur
+8134,Chelsea,West Bromwich Albion
+8135,Everton,Reading
+8136,Manchester United,Norwich City
+8137,Southampton,Queens Park Rangers
+8138,Stoke City,West Ham United
+8139,Sunderland,Fulham
+8140,Swansea City,Newcastle United
+8141,Wigan Athletic,Liverpool
+8142,Tottenham Hotspur,Arsenal
+8143,Aston Villa,Manchester City
+8144,Norwich City,Southampton
+8145,Queens Park Rangers,Sunderland
+8146,Reading,Aston Villa
+8147,West Bromwich Albion,Swansea City
+8148,Liverpool,Tottenham Hotspur
+8149,Newcastle United,Stoke City
+8150,Aston Villa,Queens Park Rangers
+8151,Everton,Manchester City
+8152,Manchester United,Reading
+8153,Southampton,Liverpool
+8154,Stoke City,West Bromwich Albion
+8155,Swansea City,Arsenal
+8156,Chelsea,West Ham United
+8157,Sunderland,Norwich City
+8158,Tottenham Hotspur,Fulham
+8159,Wigan Athletic,Newcastle United
+8160,Arsenal,Reading
+8161,Everton,Stoke City
+8162,Manchester City,Newcastle United
+8163,Southampton,Chelsea
+8164,Sunderland,Manchester United
+8165,Swansea City,Tottenham Hotspur
+8166,West Ham United,West Bromwich Albion
+8167,Wigan Athletic,Norwich City
+8168,Aston Villa,Liverpool
+8169,Fulham,Queens Park Rangers
+8170,Norwich City,Swansea City
+8171,Reading,Southampton
+8172,Stoke City,Aston Villa
+8173,West Bromwich Albion,Arsenal
+8174,Chelsea,Sunderland
+8175,Liverpool,West Ham United
+8176,Newcastle United,Fulham
+8177,Queens Park Rangers,Wigan Athletic
+8178,Tottenham Hotspur,Everton
+8179,Manchester United,Manchester City
+8180,Arsenal,Norwich City
+8181,Aston Villa,Fulham
+8182,Everton,Queens Park Rangers
+8183,Reading,Liverpool
+8184,Southampton,West Ham United
+8185,Newcastle United,Sunderland
+8186,Stoke City,Manchester United
+8187,Arsenal,Everton
+8188,Fulham,Chelsea
+8189,Manchester City,Wigan Athletic
+8190,West Ham United,Manchester United
+8191,Fulham,Arsenal
+8192,Norwich City,Reading
+8193,Queens Park Rangers,Stoke City
+8194,Sunderland,Everton
+8195,Swansea City,Southampton
+8196,West Bromwich Albion,Newcastle United
+8197,West Ham United,Wigan Athletic
+8198,Liverpool,Chelsea
+8199,Tottenham Hotspur,Manchester City
+8200,Manchester United,Aston Villa
+8201,Everton,Fulham
+8202,Manchester City,West Ham United
+8203,Newcastle United,Liverpool
+8204,Southampton,West Bromwich Albion
+8205,Stoke City,Norwich City
+8206,Wigan Athletic,Tottenham Hotspur
+8207,Arsenal,Manchester United
+8208,Chelsea,Swansea City
+8209,Reading,Queens Park Rangers
+8210,Aston Villa,Sunderland
+8211,Fulham,Reading
+8212,Norwich City,Aston Villa
+8213,Queens Park Rangers,Arsenal
+8214,Swansea City,Manchester City
+8215,Tottenham Hotspur,Southampton
+8216,West Bromwich Albion,Wigan Athletic
+8217,West Ham United,Newcastle United
+8218,Liverpool,Everton
+8219,Manchester United,Chelsea
+8220,Sunderland,Stoke City
+8221,Manchester City,West Bromwich Albion
+8222,Wigan Athletic,Swansea City
+8223,Chelsea,Tottenham Hotspur
+8224,Aston Villa,Chelsea
+8225,Everton,West Ham United
+8226,Fulham,Liverpool
+8227,Manchester United,Swansea City
+8228,Norwich City,West Bromwich Albion
+8229,Queens Park Rangers,Newcastle United
+8230,Stoke City,Tottenham Hotspur
+8231,Sunderland,Southampton
+8232,Arsenal,Wigan Athletic
+8233,Reading,Manchester City
+8234,Chelsea,Everton
+8235,Liverpool,Queens Park Rangers
+8236,Manchester City,Norwich City
+8237,Newcastle United,Arsenal
+8238,Southampton,Stoke City
+8239,Swansea City,Fulham
+8240,Tottenham Hotspur,Sunderland
+8241,West Bromwich Albion,Manchester United
+8242,West Ham United,Reading
+8243,Wigan Athletic,Aston Villa
+9231,Arsenal,Aston Villa
+9232,Liverpool,Stoke City
+9233,Norwich City,Everton
+9234,Sunderland,Fulham
+9235,Swansea City,Manchester United
+9236,West Bromwich Albion,Southampton
+9237,West Ham United,Cardiff City
+9238,Chelsea,Hull City
+9239,Crystal Palace,Tottenham Hotspur
+9240,Manchester City,Newcastle United
+9241,Chelsea,Aston Villa
+9242,Aston Villa,Liverpool
+9243,Everton,West Bromwich Albion
+9244,Fulham,Arsenal
+9245,Hull City,Norwich City
+9246,Newcastle United,West Ham United
+9247,Southampton,Sunderland
+9248,Stoke City,Crystal Palace
+9249,Cardiff City,Manchester City
+9250,Tottenham Hotspur,Swansea City
+9251,Manchester United,Chelsea
+9252,Cardiff City,Everton
+9254,Manchester City,Hull City
+9255,Newcastle United,Fulham
+9256,Norwich City,Southampton
+9257,West Ham United,Stoke City
+9258,Arsenal,Tottenham Hotspur
+9259,Liverpool,Manchester United
+9260,West Bromwich Albion,Swansea City
+9253,Crystal Palace,Sunderland
+9261,Aston Villa,Newcastle United
+9262,Everton,Chelsea
+9263,Fulham,West Bromwich Albion
+9264,Hull City,Cardiff City
+9265,Manchester United,Crystal Palace
+9266,Stoke City,Manchester City
+9267,Sunderland,Arsenal
+9268,Tottenham Hotspur,Norwich City
+9269,Southampton,West Ham United
+9270,Swansea City,Liverpool
+9271,Chelsea,Fulham
+9272,Liverpool,Southampton
+9273,Newcastle United,Hull City
+9274,Norwich City,Aston Villa
+9275,West Bromwich Albion,Sunderland
+9276,West Ham United,Everton
+9277,Arsenal,Stoke City
+9278,Cardiff City,Tottenham Hotspur
+9279,Crystal Palace,Swansea City
+9280,Manchester City,Manchester United
+9281,Aston Villa,Manchester City
+9282,Fulham,Cardiff City
+9283,Hull City,West Ham United
+9284,Manchester United,West Bromwich Albion
+9285,Southampton,Crystal Palace
+9286,Swansea City,Arsenal
+9287,Tottenham Hotspur,Chelsea
+9288,Stoke City,Norwich City
+9289,Sunderland,Liverpool
+9290,Everton,Newcastle United
+9291,Cardiff City,Newcastle United
+9292,Fulham,Stoke City
+9293,Hull City,Aston Villa
+9294,Liverpool,Crystal Palace
+9295,Manchester City,Everton
+9296,Sunderland,Manchester United
+9297,Norwich City,Chelsea
+9298,Southampton,Swansea City
+9299,Tottenham Hotspur,West Ham United
+9300,West Bromwich Albion,Arsenal
+9301,Arsenal,Norwich City
+9302,Chelsea,Cardiff City
+9303,Everton,Hull City
+9304,Manchester United,Southampton
+9305,Newcastle United,Liverpool
+9306,Stoke City,West Bromwich Albion
+9307,Swansea City,Sunderland
+9308,West Ham United,Manchester City
+9309,Aston Villa,Tottenham Hotspur
+9310,Crystal Palace,Fulham
+9311,Aston Villa,Everton
+9313,Liverpool,West Bromwich Albion
+9314,Manchester United,Stoke City
+9315,Norwich City,Cardiff City
+9316,Southampton,Fulham
+9317,Chelsea,Manchester City
+9318,Sunderland,Newcastle United
+9319,Swansea City,West Ham United
+9320,Tottenham Hotspur,Hull City
+9312,Crystal Palace,Arsenal
+9321,Arsenal,Liverpool
+9322,Fulham,Manchester United
+9323,Hull City,Sunderland
+9324,Manchester City,Norwich City
+9325,Newcastle United,Chelsea
+9326,Stoke City,Southampton
+9327,West Bromwich Albion,Crystal Palace
+9328,West Ham United,Aston Villa
+9329,Cardiff City,Swansea City
+9330,Everton,Tottenham Hotspur
+9331,Aston Villa,Cardiff City
+9332,Chelsea,West Bromwich Albion
+9333,Crystal Palace,Everton
+9334,Liverpool,Fulham
+9335,Norwich City,West Ham United
+9336,Southampton,Hull City
+9337,Manchester United,Arsenal
+9338,Sunderland,Manchester City
+9339,Swansea City,Stoke City
+9340,Tottenham Hotspur,Newcastle United
+9341,Arsenal,Southampton
+9342,Everton,Liverpool
+9343,Fulham,Swansea City
+9344,Hull City,Crystal Palace
+9345,Newcastle United,Norwich City
+9346,Stoke City,Sunderland
+9347,West Ham United,Chelsea
+9348,Cardiff City,Manchester United
+9349,Manchester City,Tottenham Hotspur
+9350,West Bromwich Albion,Aston Villa
+9351,Aston Villa,Sunderland
+9352,Cardiff City,Arsenal
+9353,Everton,Stoke City
+9354,Newcastle United,West Bromwich Albion
+9355,Norwich City,Crystal Palace
+9356,West Ham United,Fulham
+9357,Chelsea,Southampton
+9358,Hull City,Liverpool
+9359,Manchester City,Swansea City
+9360,Tottenham Hotspur,Manchester United
+9361,Crystal Palace,West Ham United
+9362,Arsenal,Hull City
+9363,Fulham,Tottenham Hotspur
+9364,Liverpool,Norwich City
+9365,Manchester United,Everton
+9366,Southampton,Aston Villa
+9367,Stoke City,Cardiff City
+9368,Sunderland,Chelsea
+9369,Swansea City,Newcastle United
+9370,West Bromwich Albion,Manchester City
+9371,Crystal Palace,Cardiff City
+9372,Liverpool,West Ham United
+9373,Manchester United,Newcastle United
+9374,Southampton,Manchester City
+9375,Stoke City,Chelsea
+9376,Sunderland,Tottenham Hotspur
+9377,West Bromwich Albion,Norwich City
+9378,Arsenal,Everton
+9379,Fulham,Aston Villa
+9380,Swansea City,Hull City
+9381,Cardiff City,West Bromwich Albion
+9382,Chelsea,Crystal Palace
+9383,Everton,Fulham
+9384,Hull City,Stoke City
+9385,Manchester City,Arsenal
+9386,Newcastle United,Southampton
+9387,West Ham United,Sunderland
+9388,Aston Villa,Manchester United
+9389,Norwich City,Swansea City
+9390,Tottenham Hotspur,Liverpool
+9391,Crystal Palace,Newcastle United
+9392,Fulham,Manchester City
+9393,Liverpool,Cardiff City
+9394,Manchester United,West Ham United
+9395,Stoke City,Aston Villa
+9396,Sunderland,Norwich City
+9397,West Bromwich Albion,Hull City
+9398,Southampton,Tottenham Hotspur
+9399,Swansea City,Everton
+9400,Arsenal,Chelsea
+9401,Aston Villa,Crystal Palace
+9402,Cardiff City,Southampton
+9403,Chelsea,Swansea City
+9404,Everton,Sunderland
+9405,Hull City,Manchester United
+9406,Manchester City,Liverpool
+9407,Newcastle United,Stoke City
+9408,Norwich City,Fulham
+9409,Tottenham Hotspur,West Bromwich Albion
+9410,West Ham United,Arsenal
+9411,Aston Villa,Swansea City
+9412,Cardiff City,Sunderland
+9413,Hull City,Fulham
+9414,Manchester City,Crystal Palace
+9415,Norwich City,Manchester United
+9416,West Ham United,West Bromwich Albion
+9417,Chelsea,Liverpool
+9418,Everton,Southampton
+9419,Newcastle United,Arsenal
+9420,Tottenham Hotspur,Stoke City
+9421,Arsenal,Cardiff City
+9422,Crystal Palace,Norwich City
+9423,Fulham,West Ham United
+9424,Liverpool,Hull City
+9425,Manchester United,Tottenham Hotspur
+9426,Southampton,Chelsea
+9427,Stoke City,Everton
+9428,Sunderland,Aston Villa
+9429,Swansea City,Manchester City
+9430,West Bromwich Albion,Newcastle United
+9431,Cardiff City,West Ham United
+9432,Everton,Norwich City
+9433,Fulham,Sunderland
+9434,Hull City,Chelsea
+9435,Manchester United,Swansea City
+9436,Southampton,West Bromwich Albion
+9437,Tottenham Hotspur,Crystal Palace
+9438,Newcastle United,Manchester City
+9439,Stoke City,Liverpool
+9440,Aston Villa,Arsenal
+9441,Arsenal,Fulham
+9442,Crystal Palace,Stoke City
+9443,Liverpool,Aston Villa
+9444,Manchester City,Cardiff City
+9445,Norwich City,Hull City
+9446,Sunderland,Southampton
+9447,West Ham United,Newcastle United
+9448,Chelsea,Manchester United
+9449,Swansea City,Tottenham Hotspur
+9450,West Bromwich Albion,Everton
+9451,Crystal Palace,Hull City
+9452,Liverpool,Everton
+9453,Manchester United,Cardiff City
+9454,Norwich City,Newcastle United
+9455,Southampton,Arsenal
+9456,Swansea City,Fulham
+9457,Aston Villa,West Bromwich Albion
+9458,Chelsea,West Ham United
+9459,Sunderland,Stoke City
+9460,Tottenham Hotspur,Manchester City
+9461,Cardiff City,Norwich City
+9462,Everton,Aston Villa
+9463,Fulham,Southampton
+9464,Hull City,Tottenham Hotspur
+9465,Newcastle United,Sunderland
+9466,Stoke City,Manchester United
+9467,West Ham United,Swansea City
+9468,Arsenal,Crystal Palace
+9469,West Bromwich Albion,Liverpool
+9470,Manchester City,Chelsea
+9471,Aston Villa,West Ham United
+9472,Chelsea,Newcastle United
+9473,Crystal Palace,West Bromwich Albion
+9474,Liverpool,Arsenal
+9475,Norwich City,Manchester City
+9476,Southampton,Stoke City
+9477,Sunderland,Hull City
+9478,Swansea City,Cardiff City
+9479,Manchester United,Fulham
+9480,Tottenham Hotspur,Everton
+9481,Cardiff City,Aston Villa
+9482,Hull City,Southampton
+9483,West Bromwich Albion,Chelsea
+9484,West Ham United,Norwich City
+9485,Arsenal,Manchester United
+9486,Fulham,Liverpool
+9487,Newcastle United,Tottenham Hotspur
+9488,Stoke City,Swansea City
+9489,Arsenal,Sunderland
+9490,Cardiff City,Hull City
+9491,Chelsea,Everton
+9492,Crystal Palace,Manchester United
+9493,Manchester City,Stoke City
+9494,West Bromwich Albion,Fulham
+9495,West Ham United,Southampton
+9496,Liverpool,Swansea City
+9497,Newcastle United,Aston Villa
+9498,Norwich City,Tottenham Hotspur
+9499,Everton,West Ham United
+9500,Fulham,Chelsea
+9501,Hull City,Newcastle United
+9502,Southampton,Liverpool
+9503,Stoke City,Arsenal
+9504,Aston Villa,Norwich City
+9505,Swansea City,Crystal Palace
+9506,Tottenham Hotspur,Cardiff City
+9507,Cardiff City,Fulham
+9508,Chelsea,Tottenham Hotspur
+9509,Crystal Palace,Southampton
+9510,Norwich City,Stoke City
+9511,West Bromwich Albion,Manchester United
+9512,Aston Villa,Chelsea
+9513,Everton,Cardiff City
+9514,Fulham,Newcastle United
+9515,Hull City,Manchester City
+9516,Southampton,Norwich City
+9517,Stoke City,West Ham United
+9518,Sunderland,Crystal Palace
+9519,Swansea City,West Bromwich Albion
+9520,Manchester United,Liverpool
+9521,Tottenham Hotspur,Arsenal
+9522,Cardiff City,Liverpool
+9523,Chelsea,Arsenal
+9524,Everton,Swansea City
+9525,Hull City,West Bromwich Albion
+9526,Manchester City,Fulham
+9527,Newcastle United,Crystal Palace
+9528,Norwich City,Sunderland
+9529,West Ham United,Manchester United
+9530,Aston Villa,Stoke City
+9531,Tottenham Hotspur,Southampton
+9532,Arsenal,Swansea City
+9533,Manchester United,Manchester City
+9534,Newcastle United,Everton
+9535,Liverpool,Sunderland
+9536,West Ham United,Hull City
+9537,Arsenal,Manchester City
+9538,Crystal Palace,Chelsea
+9539,Manchester United,Aston Villa
+9540,Southampton,Newcastle United
+9541,Stoke City,Hull City
+9542,Swansea City,Norwich City
+9543,West Bromwich Albion,Cardiff City
+9544,Fulham,Everton
+9545,Liverpool,Tottenham Hotspur
+9546,Sunderland,West Ham United
+9547,Aston Villa,Fulham
+9548,Cardiff City,Crystal Palace
+9549,Chelsea,Stoke City
+9550,Hull City,Swansea City
+9551,Manchester City,Southampton
+9552,Newcastle United,Manchester United
+9553,Norwich City,West Bromwich Albion
+9554,Everton,Arsenal
+9555,West Ham United,Liverpool
+9556,Tottenham Hotspur,Sunderland
+9557,Crystal Palace,Aston Villa
+9558,Fulham,Norwich City
+9559,Southampton,Cardiff City
+9560,Stoke City,Newcastle United
+9561,Sunderland,Everton
+9562,West Bromwich Albion,Tottenham Hotspur
+9563,Liverpool,Manchester City
+9564,Swansea City,Chelsea
+9565,Arsenal,West Ham United
+9566,Everton,Crystal Palace
+9567,Manchester City,Sunderland
+9568,Aston Villa,Southampton
+9569,Cardiff City,Stoke City
+9570,Chelsea,Sunderland
+9571,Newcastle United,Swansea City
+9572,Tottenham Hotspur,Fulham
+9573,West Ham United,Crystal Palace
+9574,Everton,Manchester United
+9575,Hull City,Arsenal
+9576,Norwich City,Liverpool
+9577,Manchester City,West Bromwich Albion
+9578,Fulham,Hull City
+9579,Manchester United,Norwich City
+9580,Southampton,Everton
+9581,Stoke City,Tottenham Hotspur
+9582,Swansea City,Aston Villa
+9583,West Bromwich Albion,West Ham United
+9584,Crystal Palace,Manchester City
+9585,Liverpool,Chelsea
+9586,Sunderland,Cardiff City
+9587,Arsenal,Newcastle United
+9588,Aston Villa,Hull City
+9589,Everton,Manchester City
+9590,Manchester United,Sunderland
+9591,Newcastle United,Cardiff City
+9592,Stoke City,Fulham
+9593,Swansea City,Southampton
+9594,West Ham United,Tottenham Hotspur
+9595,Arsenal,West Bromwich Albion
+9596,Chelsea,Norwich City
+9597,Crystal Palace,Liverpool
+9598,Manchester United,Hull City
+9599,Manchester City,Aston Villa
+9600,Sunderland,West Bromwich Albion
+9601,Cardiff City,Chelsea
+9602,Fulham,Crystal Palace
+9603,Hull City,Everton
+9604,Liverpool,Newcastle United
+9605,Manchester City,West Ham United
+9606,Norwich City,Arsenal
+9607,Southampton,Manchester United
+9608,Sunderland,Swansea City
+9609,Tottenham Hotspur,Aston Villa
+9610,West Bromwich Albion,Stoke City
+9611,Arsenal,Crystal Palace
+9612,Leicester City,Everton
+9613,Manchester United,Swansea City
+9614,Queens Park Rangers,Hull City
+9615,Stoke City,Aston Villa
+9616,West Bromwich Albion,Sunderland
+9617,West Ham United,Tottenham Hotspur
+9618,Liverpool,Southampton
+9619,Newcastle United,Manchester City
+9620,Burnley,Chelsea
+9621,Aston Villa,Newcastle United
+9622,Chelsea,Leicester City
+9623,Crystal Palace,West Ham United
+9624,Everton,Arsenal
+9625,Southampton,West Bromwich Albion
+9626,Swansea City,Burnley
+9627,Hull City,Stoke City
+9628,Sunderland,Manchester United
+9629,Tottenham Hotspur,Queens Park Rangers
+9630,Manchester City,Liverpool
+9631,Burnley,Manchester United
+9632,Everton,Chelsea
+9633,Manchester City,Stoke City
+9634,Newcastle United,Crystal Palace
+9635,Queens Park Rangers,Sunderland
+9636,Swansea City,West Bromwich Albion
+9637,West Ham United,Southampton
+9638,Aston Villa,Hull City
+9639,Leicester City,Arsenal
+9640,Tottenham Hotspur,Liverpool
+9641,Arsenal,Manchester City
+9644,Liverpool,Aston Villa
+9645,Southampton,Newcastle United
+9646,Stoke City,Leicester City
+9647,Sunderland,Tottenham Hotspur
+9648,West Bromwich Albion,Everton
+9649,Manchester United,Queens Park Rangers
+9650,Hull City,West Ham United
+9642,Chelsea,Swansea City
+9643,Crystal Palace,Burnley
+9651,Aston Villa,Arsenal
+9652,Burnley,Sunderland
+9653,Newcastle United,Hull City
+9654,Queens Park Rangers,Stoke City
+9655,Swansea City,Southampton
+9656,West Ham United,Liverpool
+9657,Everton,Crystal Palace
+9658,Leicester City,Manchester United
+9659,Manchester City,Chelsea
+9660,Tottenham Hotspur,West Bromwich Albion
+9661,Arsenal,Tottenham Hotspur
+9662,Chelsea,Aston Villa
+9663,Crystal Palace,Leicester City
+9664,Hull City,Manchester City
+9665,Liverpool,Everton
+9666,Manchester United,West Ham United
+9667,Southampton,Queens Park Rangers
+9668,Sunderland,Swansea City
+9669,West Bromwich Albion,Burnley
+9670,Stoke City,Newcastle United
+9671,Aston Villa,Manchester City
+9672,Hull City,Crystal Palace
+9673,Leicester City,Burnley
+9674,Liverpool,West Bromwich Albion
+9675,Sunderland,Stoke City
+9676,Swansea City,Newcastle United
+9677,Chelsea,Arsenal
+9678,Manchester United,Everton
+9679,Tottenham Hotspur,Southampton
+9680,West Ham United,Queens Park Rangers
+9681,Arsenal,Hull City
+9682,Burnley,West Ham United
+9683,Crystal Palace,Chelsea
+9684,Everton,Aston Villa
+9685,Manchester City,Tottenham Hotspur
+9686,Newcastle United,Leicester City
+9687,Southampton,Sunderland
+9688,Queens Park Rangers,Liverpool
+9689,Stoke City,Swansea City
+9690,West Bromwich Albion,Manchester United
+9691,Liverpool,Hull City
+9692,Southampton,Stoke City
+9693,Sunderland,Arsenal
+9694,Swansea City,Leicester City
+9695,West Bromwich Albion,Crystal Palace
+9696,West Ham United,Manchester City
+9697,Burnley,Everton
+9698,Manchester United,Chelsea
+9699,Tottenham Hotspur,Newcastle United
+9700,Queens Park Rangers,Aston Villa
+9701,Arsenal,Burnley
+9702,Chelsea,Queens Park Rangers
+9703,Everton,Swansea City
+9704,Hull City,Southampton
+9705,Leicester City,West Bromwich Albion
+9706,Newcastle United,Liverpool
+9707,Stoke City,West Ham United
+9708,Aston Villa,Tottenham Hotspur
+9709,Manchester City,Manchester United
+9710,Crystal Palace,Sunderland
+9711,Burnley,Hull City
+9712,Liverpool,Chelsea
+9713,Manchester United,Crystal Palace
+9714,Queens Park Rangers,Manchester City
+9715,Southampton,Leicester City
+9716,West Ham United,Aston Villa
+9717,Sunderland,Everton
+9718,Swansea City,Arsenal
+9719,Tottenham Hotspur,Stoke City
+9720,West Bromwich Albion,Newcastle United
+9721,Arsenal,Manchester United
+9722,Chelsea,West Bromwich Albion
+9723,Everton,West Ham United
+9724,Leicester City,Sunderland
+9725,Manchester City,Swansea City
+9726,Newcastle United,Queens Park Rangers
+9727,Stoke City,Burnley
+9728,Crystal Palace,Liverpool
+9729,Hull City,Tottenham Hotspur
+9730,Aston Villa,Southampton
+9731,Burnley,Aston Villa
+9732,Liverpool,Stoke City
+9733,Manchester United,Hull City
+9734,Queens Park Rangers,Leicester City
+9735,Sunderland,Chelsea
+9736,Swansea City,Crystal Palace
+9737,West Bromwich Albion,Arsenal
+9738,West Ham United,Newcastle United
+9739,Southampton,Manchester City
+9740,Tottenham Hotspur,Everton
+9741,Burnley,Newcastle United
+9742,Crystal Palace,Aston Villa
+9743,Leicester City,Liverpool
+9744,Manchester United,Stoke City
+9745,Swansea City,Queens Park Rangers
+9746,West Bromwich Albion,West Ham United
+9747,Arsenal,Southampton
+9748,Chelsea,Tottenham Hotspur
+9749,Everton,Hull City
+9750,Sunderland,Manchester City
+9752,Liverpool,Sunderland
+9753,Manchester City,Everton
+9754,Newcastle United,Chelsea
+9755,Queens Park Rangers,Burnley
+9756,Stoke City,Arsenal
+9757,Tottenham Hotspur,Crystal Palace
+9758,Aston Villa,Leicester City
+9759,West Ham United,Swansea City
+9760,Southampton,Manchester United
+9751,Hull City,West Bromwich Albion
+9761,Arsenal,Newcastle United
+9762,Burnley,Southampton
+9763,Chelsea,Hull City
+9764,Crystal Palace,Stoke City
+9765,Leicester City,Manchester City
+9766,Sunderland,West Ham United
+9767,West Bromwich Albion,Aston Villa
+9768,Manchester United,Liverpool
+9769,Swansea City,Tottenham Hotspur
+9770,Everton,Queens Park Rangers
+9771,Aston Villa,Manchester United
+9772,Hull City,Swansea City
+9773,Manchester City,Crystal Palace
+9774,Queens Park Rangers,West Bromwich Albion
+9775,Southampton,Everton
+9776,Tottenham Hotspur,Burnley
+9780,Stoke City,Chelsea
+9777,West Ham United,Leicester City
+9778,Liverpool,Arsenal
+9779,Newcastle United,Sunderland
+9781,Arsenal,Queens Park Rangers
+9782,Burnley,Liverpool
+9783,Chelsea,West Ham United
+9784,Crystal Palace,Southampton
+9785,Everton,Stoke City
+9786,Leicester City,Tottenham Hotspur
+9787,Manchester United,Newcastle United
+9788,Sunderland,Hull City
+9789,Swansea City,Aston Villa
+9790,West Bromwich Albion,Manchester City
+9791,Aston Villa,Sunderland
+9792,Hull City,Leicester City
+9793,Manchester City,Burnley
+9794,Newcastle United,Everton
+9795,Queens Park Rangers,Crystal Palace
+9796,Southampton,Chelsea
+9797,Stoke City,West Bromwich Albion
+9798,Tottenham Hotspur,Manchester United
+9799,West Ham United,Arsenal
+9800,Liverpool,Swansea City
+9801,Aston Villa,Crystal Palace
+9802,Hull City,Everton
+9803,Liverpool,Leicester City
+9804,Manchester City,Sunderland
+9805,Newcastle United,Burnley
+9806,Queens Park Rangers,Swansea City
+9810,West Ham United,West Bromwich Albion
+9807,Southampton,Arsenal
+9808,Stoke City,Manchester United
+9809,Tottenham Hotspur,Chelsea
+9811,Burnley,Queens Park Rangers
+9812,Chelsea,Newcastle United
+9813,Crystal Palace,Tottenham Hotspur
+9814,Everton,Manchester City
+9815,Leicester City,Aston Villa
+9818,West Bromwich Albion,Hull City
+9816,Sunderland,Liverpool
+9817,Swansea City,West Ham United
+9819,Arsenal,Stoke City
+9820,Manchester United,Southampton
+9821,Aston Villa,Liverpool
+9822,Burnley,Crystal Palace
+9823,Leicester City,Stoke City
+9824,Newcastle United,Southampton
+9825,Queens Park Rangers,Manchester United
+9826,Swansea City,Chelsea
+9827,Tottenham Hotspur,Sunderland
+9828,Manchester City,Arsenal
+9829,West Ham United,Hull City
+9830,Everton,West Bromwich Albion
+9831,Chelsea,Manchester City
+9832,Crystal Palace,Everton
+9833,Hull City,Newcastle United
+9834,Liverpool,West Ham United
+9835,Manchester United,Leicester City
+9836,Stoke City,Queens Park Rangers
+9837,Sunderland,Burnley
+9838,West Bromwich Albion,Tottenham Hotspur
+9839,Arsenal,Aston Villa
+9840,Southampton,Swansea City
+9841,Aston Villa,Chelsea
+9842,Everton,Liverpool
+9843,Leicester City,Crystal Palace
+9844,Manchester City,Hull City
+9845,Queens Park Rangers,Southampton
+9846,Swansea City,Sunderland
+9847,Tottenham Hotspur,Arsenal
+9848,Burnley,West Bromwich Albion
+9849,Newcastle United,Stoke City
+9850,West Ham United,Manchester United
+9853,Liverpool,Tottenham Hotspur
+9854,Sunderland,Queens Park Rangers
+9855,Chelsea,Everton
+9856,Crystal Palace,Newcastle United
+9857,Manchester United,Burnley
+9858,Southampton,West Ham United
+9859,Stoke City,Manchester City
+9860,West Bromwich Albion,Swansea City
+9851,Arsenal,Leicester City
+9852,Hull City,Aston Villa
+9861,Aston Villa,Stoke City
+9862,Chelsea,Burnley
+9863,Crystal Palace,Arsenal
+9864,Hull City,Queens Park Rangers
+9865,Manchester City,Newcastle United
+9866,Sunderland,West Bromwich Albion
+9867,Swansea City,Manchester United
+9868,Everton,Leicester City
+9869,Southampton,Liverpool
+9870,Tottenham Hotspur,West Ham United
+9871,Burnley,Swansea City
+9872,Manchester United,Sunderland
+9873,Newcastle United,Aston Villa
+9874,Stoke City,Hull City
+9875,West Bromwich Albion,Southampton
+9876,West Ham United,Crystal Palace
+9877,Arsenal,Everton
+9878,Liverpool,Manchester City
+9880,Hull City,Sunderland
+9881,Southampton,Crystal Palace
+9882,Liverpool,Burnley
+9883,Manchester City,Leicester City
+9884,Newcastle United,Manchester United
+9885,Queens Park Rangers,Arsenal
+9886,Stoke City,Everton
+9887,Tottenham Hotspur,Swansea City
+9888,West Ham United,Chelsea
+9889,Queens Park Rangers,Tottenham Hotspur
+9879,Aston Villa,West Bromwich Albion
+9890,Arsenal,West Ham United
+9891,Burnley,Manchester City
+9892,Crystal Palace,Queens Park Rangers
+9893,Leicester City,Hull City
+9894,Sunderland,Aston Villa
+9895,West Bromwich Albion,Stoke City
+9896,Chelsea,Southampton
+9897,Everton,Newcastle United
+9898,Manchester United,Tottenham Hotspur
+9899,Swansea City,Liverpool
+9900,Aston Villa,Swansea City
+9901,Manchester City,West Bromwich Albion
+9902,Newcastle United,Arsenal
+9903,Southampton,Burnley
+9904,Stoke City,Crystal Palace
+9905,Tottenham Hotspur,Leicester City
+9906,West Ham United,Sunderland
+9907,Hull City,Chelsea
+9908,Liverpool,Manchester United
+9909,Queens Park Rangers,Everton
+9910,Arsenal,Liverpool
+9911,Chelsea,Stoke City
+9912,Everton,Southampton
+9913,Leicester City,West Ham United
+9914,Manchester United,Aston Villa
+9915,Swansea City,Hull City
+9916,West Bromwich Albion,Queens Park Rangers
+9917,Burnley,Tottenham Hotspur
+9918,Sunderland,Newcastle United
+9919,Crystal Palace,Manchester City
+9920,Aston Villa,Queens Park Rangers
+9921,Burnley,Arsenal
+9922,Southampton,Hull City
+9923,Sunderland,Crystal Palace
+9924,Swansea City,Everton
+9925,Tottenham Hotspur,Aston Villa
+9926,West Bromwich Albion,Leicester City
+9927,West Ham United,Stoke City
+9928,Manchester United,Manchester City
+9929,Queens Park Rangers,Chelsea
+9930,Liverpool,Newcastle United
+9931,Chelsea,Manchester United
+9932,Crystal Palace,West Bromwich Albion
+9933,Everton,Burnley
+9934,Leicester City,Swansea City
+9935,Stoke City,Southampton
+9936,Manchester City,West Ham United
+9937,Newcastle United,Tottenham Hotspur
+9938,Burnley,Leicester City
+9939,Crystal Palace,Hull City
+9940,Manchester City,Aston Villa
+9941,Newcastle United,Swansea City
+9942,Queens Park Rangers,West Ham United
+9943,Southampton,Tottenham Hotspur
+9944,Stoke City,Sunderland
+9945,West Bromwich Albion,Liverpool
+9946,Arsenal,Chelsea
+9947,Everton,Manchester United
+9948,Hull City,Liverpool
+9949,Leicester City,Chelsea
+9950,Aston Villa,Everton
+9951,Leicester City,Newcastle United
+9952,Liverpool,Queens Park Rangers
+9953,Manchester United,West Bromwich Albion
+9954,Sunderland,Southampton
+9955,Swansea City,Stoke City
+9956,West Ham United,Burnley
+9957,Chelsea,Crystal Palace
+9958,Tottenham Hotspur,Manchester City
+9959,Hull City,Arsenal
+9960,Aston Villa,West Ham United
+9961,Crystal Palace,Manchester United
+9962,Everton,Sunderland
+9963,Hull City,Burnley
+9964,Leicester City,Southampton
+9965,Newcastle United,West Bromwich Albion
+9966,Stoke City,Tottenham Hotspur
+9967,Chelsea,Liverpool
+9968,Manchester City,Queens Park Rangers
+9969,Arsenal,Swansea City
+9970,Burnley,Stoke City
+9971,Liverpool,Crystal Palace
+9972,Queens Park Rangers,Newcastle United
+9973,Southampton,Aston Villa
+9974,Sunderland,Leicester City
+9975,Tottenham Hotspur,Hull City
+9976,West Ham United,Everton
+9977,Manchester United,Arsenal
+9978,Swansea City,Manchester City
+9979,West Bromwich Albion,Chelsea
+9980,Arsenal,Sunderland
+9981,Arsenal,West Bromwich Albion
+9982,Aston Villa,Burnley
+9983,Chelsea,Sunderland
+9984,Crystal Palace,Swansea City
+9985,Everton,Tottenham Hotspur
+9986,Hull City,Manchester United
+9987,Leicester City,Queens Park Rangers
+9988,Manchester City,Southampton
+9989,Newcastle United,West Ham United
+9990,Stoke City,Liverpool
+12115,AFC Bournemouth,Aston Villa
+12116,Chelsea,Swansea City
+12117,Everton,Watford
+12118,Leicester City,Sunderland
+12119,Manchester United,Tottenham Hotspur
+12120,Norwich City,Crystal Palace
+12121,Arsenal,West Ham United
+12122,Newcastle United,Southampton
+12123,Stoke City,Liverpool
+12124,West Bromwich Albion,Manchester City
+12125,Aston Villa,Manchester United
+12126,Southampton,Everton
+12127,Sunderland,Norwich City
+12128,Swansea City,Newcastle United
+12129,Tottenham Hotspur,Stoke City
+12130,Watford,West Bromwich Albion
+12131,West Ham United,Leicester City
+12132,Crystal Palace,Arsenal
+12133,Manchester City,Chelsea
+12134,Liverpool,AFC Bournemouth
+12135,Crystal Palace,Aston Villa
+12136,Leicester City,Tottenham Hotspur
+12137,Manchester United,Newcastle United
+12138,Norwich City,Stoke City
+12139,Sunderland,Swansea City
+12140,West Ham United,AFC Bournemouth
+12141,Everton,Manchester City
+12142,Watford,Southampton
+12143,West Bromwich Albion,Chelsea
+12144,Arsenal,Liverpool
+12145,Aston Villa,Sunderland
+12146,AFC Bournemouth,Leicester City
+12147,Chelsea,Crystal Palace
+12148,Liverpool,West Ham United
+12149,Manchester City,Watford
+12150,Newcastle United,Arsenal
+12151,Stoke City,West Bromwich Albion
+12152,Tottenham Hotspur,Everton
+12153,Southampton,Norwich City
+12154,Swansea City,Manchester United
+12155,Arsenal,Stoke City
+12156,Crystal Palace,Manchester City
+12157,Everton,Chelsea
+12158,Manchester United,Liverpool
+12159,Norwich City,AFC Bournemouth
+12160,Watford,Swansea City
+12161,West Bromwich Albion,Southampton
+12162,Leicester City,Aston Villa
+12163,Sunderland,Tottenham Hotspur
+12164,West Ham United,Newcastle United
+12165,Aston Villa,West Bromwich Albion
+12166,AFC Bournemouth,Sunderland
+12167,Chelsea,Arsenal
+12168,Manchester City,West Ham United
+12169,Newcastle United,Watford
+12170,Stoke City,Leicester City
+12171,Swansea City,Everton
+12172,Liverpool,Norwich City
+12173,Southampton,Manchester United
+12174,Tottenham Hotspur,Crystal Palace
+12175,Leicester City,Arsenal
+12176,Liverpool,Aston Villa
+12177,Manchester United,Sunderland
+12178,Newcastle United,Chelsea
+12179,Southampton,Swansea City
+12180,Stoke City,AFC Bournemouth
+12181,Tottenham Hotspur,Manchester City
+12182,West Ham United,Norwich City
+12183,Watford,Crystal Palace
+12184,West Bromwich Albion,Everton
+12185,Aston Villa,Stoke City
+12186,AFC Bournemouth,Watford
+12187,Chelsea,Southampton
+12188,Crystal Palace,West Bromwich Albion
+12189,Manchester City,Newcastle United
+12190,Norwich City,Leicester City
+12191,Sunderland,West Ham United
+12192,Arsenal,Manchester United
+12193,Everton,Liverpool
+12194,Swansea City,Tottenham Hotspur
+12195,Chelsea,Aston Villa
+12196,Crystal Palace,West Ham United
+12197,Everton,Manchester United
+12198,Manchester City,AFC Bournemouth
+12199,Southampton,Leicester City
+12200,Tottenham Hotspur,Liverpool
+12201,Watford,Arsenal
+12202,West Bromwich Albion,Sunderland
+12203,Newcastle United,Norwich City
+12204,Swansea City,Stoke City
+12205,Arsenal,Everton
+12206,Aston Villa,Swansea City
+12207,Leicester City,Crystal Palace
+12208,Norwich City,West Bromwich Albion
+12209,Stoke City,Watford
+12210,West Ham United,Chelsea
+12211,AFC Bournemouth,Tottenham Hotspur
+12212,Liverpool,Southampton
+12213,Manchester United,Manchester City
+12214,Sunderland,Newcastle United
+12215,Chelsea,Liverpool
+12216,Crystal Palace,Manchester United
+12217,Manchester City,Norwich City
+12218,Newcastle United,Stoke City
+12219,Swansea City,Arsenal
+12220,Watford,West Ham United
+12221,West Bromwich Albion,Leicester City
+12222,Everton,Sunderland
+12223,Southampton,AFC Bournemouth
+12224,Tottenham Hotspur,Aston Villa
+12225,AFC Bournemouth,Newcastle United
+12226,Leicester City,Watford
+12227,Manchester United,West Bromwich Albion
+12228,Norwich City,Swansea City
+12229,Stoke City,Chelsea
+12230,Sunderland,Southampton
+12231,West Ham United,Everton
+12232,Arsenal,Tottenham Hotspur
+12233,Aston Villa,Manchester City
+12234,Liverpool,Crystal Palace
+12235,Chelsea,Norwich City
+12236,Everton,Aston Villa
+12237,Manchester City,Liverpool
+12238,Newcastle United,Leicester City
+12239,Southampton,Stoke City
+12240,Swansea City,AFC Bournemouth
+12241,Watford,Manchester United
+12242,West Bromwich Albion,Arsenal
+12243,Tottenham Hotspur,West Ham United
+12244,Crystal Palace,Sunderland
+12245,Aston Villa,Watford
+12246,AFC Bournemouth,Everton
+12247,Crystal Palace,Newcastle United
+12248,Leicester City,Manchester United
+12249,Manchester City,Southampton
+12250,Sunderland,Stoke City
+12251,Liverpool,Swansea City
+12252,Norwich City,Arsenal
+12253,Tottenham Hotspur,Chelsea
+12254,West Ham United,West Bromwich Albion
+12255,Arsenal,Sunderland
+12256,Chelsea,AFC Bournemouth
+12257,Manchester United,West Ham United
+12258,Southampton,Aston Villa
+12259,Stoke City,Manchester City
+12260,Swansea City,Leicester City
+12261,Watford,Norwich City
+12262,West Bromwich Albion,Tottenham Hotspur
+12263,Newcastle United,Liverpool
+12264,Everton,Crystal Palace
+12265,AFC Bournemouth,Manchester United
+12266,Crystal Palace,Southampton
+12267,Manchester City,Swansea City
+12268,Norwich City,Everton
+12269,Sunderland,Watford
+12270,West Ham United,Stoke City
+12271,Aston Villa,Arsenal
+12272,Liverpool,West Bromwich Albion
+12273,Tottenham Hotspur,Newcastle United
+12274,Leicester City,Chelsea
+12275,Chelsea,Sunderland
+12276,Everton,Leicester City
+12277,Manchester United,Norwich City
+12278,Newcastle United,Aston Villa
+12279,Southampton,Tottenham Hotspur
+12280,Stoke City,Crystal Palace
+12281,West Bromwich Albion,AFC Bournemouth
+12282,Swansea City,West Ham United
+12283,Watford,Liverpool
+12284,Arsenal,Manchester City
+12285,Aston Villa,West Ham United
+12286,AFC Bournemouth,Crystal Palace
+12287,Chelsea,Watford
+12288,Liverpool,Leicester City
+12289,Manchester City,Sunderland
+12290,Newcastle United,Everton
+12291,Southampton,Arsenal
+12292,Stoke City,Manchester United
+12293,Swansea City,West Bromwich Albion
+12294,Tottenham Hotspur,Norwich City
+12295,Arsenal,AFC Bournemouth
+12296,Crystal Palace,Swansea City
+12297,Everton,Stoke City
+12298,Manchester United,Chelsea
+12299,Norwich City,Aston Villa
+12300,Watford,Tottenham Hotspur
+12301,West Bromwich Albion,Newcastle United
+12302,West Ham United,Southampton
+12303,Leicester City,Manchester City
+12304,Sunderland,Liverpool
+12305,Arsenal,Newcastle United
+12306,Leicester City,AFC Bournemouth
+12307,Manchester United,Swansea City
+12308,Norwich City,Southampton
+12309,Sunderland,Aston Villa
+12310,Watford,Manchester City
+12311,West Bromwich Albion,Stoke City
+12312,West Ham United,Liverpool
+12313,Crystal Palace,Chelsea
+12314,Everton,Tottenham Hotspur
+12315,Aston Villa,Crystal Palace
+12316,AFC Bournemouth,West Ham United
+12317,Newcastle United,Manchester United
+12318,Chelsea,West Bromwich Albion
+12319,Liverpool,Arsenal
+12320,Manchester City,Everton
+12321,Southampton,Watford
+12322,Stoke City,Norwich City
+12323,Swansea City,Sunderland
+12324,Tottenham Hotspur,Leicester City
+12325,Aston Villa,Leicester City
+12326,AFC Bournemouth,Norwich City
+12327,Chelsea,Everton
+12328,Manchester City,Crystal Palace
+12329,Newcastle United,West Ham United
+12330,Southampton,West Bromwich Albion
+12331,Tottenham Hotspur,Sunderland
+12332,Liverpool,Manchester United
+12333,Stoke City,Arsenal
+12334,Swansea City,Watford
+12335,Crystal Palace,Tottenham Hotspur
+12336,Leicester City,Stoke City
+12337,Manchester United,Southampton
+12338,Norwich City,Liverpool
+12339,Sunderland,AFC Bournemouth
+12340,Watford,Newcastle United
+12341,West Bromwich Albion,Aston Villa
+12342,West Ham United,Manchester City
+12343,Arsenal,Chelsea
+12344,Everton,Swansea City
+12345,Arsenal,Southampton
+12346,Crystal Palace,AFC Bournemouth
+12347,Leicester City,Liverpool
+12348,Manchester United,Stoke City
+12349,Norwich City,Tottenham Hotspur
+12350,Sunderland,Manchester City
+12351,West Bromwich Albion,Swansea City
+12352,West Ham United,Aston Villa
+12353,Everton,Newcastle United
+12354,Watford,Chelsea
+12355,Aston Villa,Norwich City
+12356,Liverpool,Sunderland
+12357,Manchester City,Leicester City
+12358,Newcastle United,West Bromwich Albion
+12359,Southampton,West Ham United
+12360,Stoke City,Everton
+12361,Swansea City,Crystal Palace
+12362,Tottenham Hotspur,Watford
+12363,AFC Bournemouth,Arsenal
+12364,Chelsea,Manchester United
+12365,AFC Bournemouth,Stoke City
+12366,Chelsea,Newcastle United
+12367,Crystal Palace,Watford
+12368,Everton,West Bromwich Albion
+12369,Norwich City,West Ham United
+12370,Sunderland,Manchester United
+12371,Swansea City,Southampton
+12372,Arsenal,Leicester City
+12373,Aston Villa,Liverpool
+12374,Manchester City,Tottenham Hotspur
+12375,Leicester City,Norwich City
+12376,Southampton,Chelsea
+12377,Stoke City,Aston Villa
+12378,Watford,AFC Bournemouth
+12379,West Bromwich Albion,Crystal Palace
+12380,West Ham United,Sunderland
+12381,Manchester United,Arsenal
+12382,Tottenham Hotspur,Swansea City
+12383,Aston Villa,Everton
+12384,AFC Bournemouth,Southampton
+12385,Leicester City,West Bromwich Albion
+12386,Norwich City,Chelsea
+12387,Sunderland,Crystal Palace
+12388,Arsenal,Swansea City
+12389,Liverpool,Manchester City
+12390,Manchester United,Watford
+12391,Stoke City,Newcastle United
+12392,West Ham United,Tottenham Hotspur
+12393,Chelsea,Stoke City
+12394,Everton,West Ham United
+12395,Manchester City,Aston Villa
+12396,Newcastle United,AFC Bournemouth
+12397,Southampton,Sunderland
+12398,Swansea City,Norwich City
+12399,Tottenham Hotspur,Arsenal
+12400,Watford,Leicester City
+12401,Crystal Palace,Liverpool
+12402,West Bromwich Albion,Manchester United
+12403,AFC Bournemouth,Swansea City
+12404,Norwich City,Manchester City
+12405,Stoke City,Southampton
+12406,Aston Villa,Tottenham Hotspur
+12407,Leicester City,Newcastle United
+12408,Chelsea,West Ham United
+12409,Crystal Palace,Leicester City
+12410,Everton,Arsenal
+12411,Swansea City,Aston Villa
+12412,Watford,Stoke City
+12413,West Bromwich Albion,Norwich City
+12414,Manchester City,Manchester United
+12415,Newcastle United,Sunderland
+12416,Southampton,Liverpool
+12417,Tottenham Hotspur,AFC Bournemouth
+12418,Arsenal,Watford
+12419,Aston Villa,Chelsea
+12420,AFC Bournemouth,Manchester City
+12421,Liverpool,Tottenham Hotspur
+12422,Norwich City,Newcastle United
+12423,Stoke City,Swansea City
+12424,Sunderland,West Bromwich Albion
+12425,West Ham United,Crystal Palace
+12426,Leicester City,Southampton
+12427,Manchester United,Everton
+12428,Aston Villa,AFC Bournemouth
+12429,Crystal Palace,Norwich City
+12430,Manchester City,West Bromwich Albion
+12431,Southampton,Newcastle United
+12432,Swansea City,Chelsea
+12433,Watford,Everton
+12434,West Ham United,Arsenal
+12435,Liverpool,Stoke City
+12436,Sunderland,Leicester City
+12437,Tottenham Hotspur,Manchester United
+12438,Crystal Palace,Everton
+12439,Chelsea,Manchester City
+12440,Everton,Southampton
+12441,Manchester United,Aston Villa
+12442,Newcastle United,Swansea City
+12443,Norwich City,Sunderland
+12444,West Bromwich Albion,Watford
+12445,Arsenal,Crystal Palace
+12446,AFC Bournemouth,Liverpool
+12447,Leicester City,West Ham United
+12448,Stoke City,Tottenham Hotspur
+12449,Newcastle United,Manchester City
+12450,Liverpool,Everton
+12451,Manchester United,Crystal Palace
+12452,West Ham United,Watford
+12453,Arsenal,West Bromwich Albion
+12454,Aston Villa,Southampton
+12455,AFC Bournemouth,Chelsea
+12456,Liverpool,Newcastle United
+12457,Manchester City,Stoke City
+12458,Leicester City,Swansea City
+12459,Sunderland,Arsenal
+12460,Tottenham Hotspur,West Bromwich Albion
+12461,Arsenal,Norwich City
+12462,Everton,AFC Bournemouth
+12463,Newcastle United,Crystal Palace
+12464,Stoke City,Sunderland
+12465,Watford,Aston Villa
+12466,West Bromwich Albion,West Ham United
+12467,Manchester United,Leicester City
+12468,Southampton,Manchester City
+12469,Swansea City,Liverpool
+12470,Chelsea,Tottenham Hotspur
+12471,Aston Villa,Newcastle United
+12472,AFC Bournemouth,West Bromwich Albion
+12473,Crystal Palace,Stoke City
+12474,Leicester City,Everton
+12475,Norwich City,Manchester United
+12476,Sunderland,Chelsea
+12477,West Ham United,Swansea City
+12478,Liverpool,Watford
+12479,Manchester City,Arsenal
+12480,Tottenham Hotspur,Southampton
+12481,West Ham United,Manchester United
+12482,Liverpool,Chelsea
+12483,Norwich City,Watford
+12484,Sunderland,Everton
+12485,Arsenal,Aston Villa
+12486,Chelsea,Leicester City
+12487,Everton,Norwich City
+12488,Newcastle United,Tottenham Hotspur
+12489,Southampton,Crystal Palace
+12490,Stoke City,West Ham United
+12491,Swansea City,Manchester City
+12492,Watford,Sunderland
+12493,West Bromwich Albion,Liverpool
+12494,Manchester United,AFC Bournemouth
+14040,Arsenal,Liverpool
+14041,AFC Bournemouth,Manchester United
+14042,Burnley,Swansea City
+14043,Chelsea,West Ham United
+14044,Crystal Palace,West Bromwich Albion
+14045,Everton,Tottenham Hotspur
+14046,Hull City,Leicester City
+14047,Manchester City,Sunderland
+14048,Middlesbrough,Stoke City
+14049,Southampton,Watford
+14050,Leicester City,Arsenal
+14052,Manchester United,Southampton
+14053,Stoke City,Manchester City
+14054,Sunderland,Middlesbrough
+14055,Swansea City,Hull City
+14056,Tottenham Hotspur,Crystal Palace
+14057,Watford,Chelsea
+14058,West Bromwich Albion,Everton
+14059,West Ham United,AFC Bournemouth
+14312,Burnley,Liverpool
+14060,Chelsea,Burnley
+14061,Crystal Palace,AFC Bournemouth
+14062,Everton,Stoke City
+14063,Hull City,Manchester United
+14064,Leicester City,Swansea City
+14065,Manchester City,West Ham United
+14066,Southampton,Sunderland
+14067,Tottenham Hotspur,Liverpool
+14068,Watford,Arsenal
+14069,West Bromwich Albion,Middlesbrough
+14070,Arsenal,Southampton
+14071,AFC Bournemouth,West Bromwich Albion
+14072,Burnley,Hull City
+14073,Liverpool,Leicester City
+14074,Manchester United,Manchester City
+14075,Middlesbrough,Crystal Palace
+14076,Stoke City,Tottenham Hotspur
+14077,Sunderland,Everton
+14078,Swansea City,Chelsea
+14079,West Ham United,Watford
+14080,Chelsea,Liverpool
+14081,Crystal Palace,Stoke City
+14082,Everton,Middlesbrough
+14083,Hull City,Arsenal
+14084,Leicester City,Burnley
+14085,Manchester City,AFC Bournemouth
+14086,Southampton,Swansea City
+14087,Tottenham Hotspur,Sunderland
+14088,Watford,Manchester United
+14089,West Bromwich Albion,West Ham United
+14090,Arsenal,Chelsea
+14091,AFC Bournemouth,Everton
+14092,Burnley,Watford
+14093,Liverpool,Hull City
+14094,Manchester United,Leicester City
+14095,Middlesbrough,Tottenham Hotspur
+14096,Stoke City,West Bromwich Albion
+14097,Sunderland,Crystal Palace
+14098,Swansea City,Manchester City
+14099,West Ham United,Southampton
+14100,Burnley,Arsenal
+14101,Everton,Crystal Palace
+14102,Hull City,Chelsea
+14103,Leicester City,Southampton
+14104,Manchester United,Stoke City
+14105,Sunderland,West Bromwich Albion
+14106,Swansea City,Liverpool
+14107,Tottenham Hotspur,Manchester City
+14108,Watford,AFC Bournemouth
+14109,West Ham United,Middlesbrough
+14110,Arsenal,Swansea City
+14111,AFC Bournemouth,Hull City
+14112,Chelsea,Leicester City
+14113,Crystal Palace,West Ham United
+14114,Liverpool,Manchester United
+14115,Manchester City,Everton
+14116,Middlesbrough,Watford
+14117,Southampton,Burnley
+14118,Stoke City,Sunderland
+14119,West Bromwich Albion,Tottenham Hotspur
+14120,Arsenal,Middlesbrough
+14121,AFC Bournemouth,Tottenham Hotspur
+14122,Burnley,Everton
+14123,Chelsea,Manchester United
+14124,Hull City,Stoke City
+14125,Leicester City,Crystal Palace
+14126,Liverpool,West Bromwich Albion
+14127,Manchester City,Southampton
+14128,Swansea City,Watford
+14129,West Ham United,Sunderland
+14130,Crystal Palace,Liverpool
+14131,Everton,West Ham United
+14132,Manchester United,Burnley
+14133,Middlesbrough,AFC Bournemouth
+14134,Southampton,Chelsea
+14135,Stoke City,Swansea City
+14136,Sunderland,Arsenal
+14137,Tottenham Hotspur,Leicester City
+14138,Watford,Hull City
+14139,West Bromwich Albion,Manchester City
+14140,Arsenal,Tottenham Hotspur
+14141,AFC Bournemouth,Sunderland
+14142,Burnley,Crystal Palace
+14143,Chelsea,Everton
+14144,Hull City,Southampton
+14145,Leicester City,West Bromwich Albion
+14146,Liverpool,Watford
+14147,Manchester City,Middlesbrough
+14148,Swansea City,Manchester United
+14149,West Ham United,Stoke City
+14150,Crystal Palace,Manchester City
+14151,Everton,Swansea City
+14152,Manchester United,Arsenal
+14153,Middlesbrough,Chelsea
+14154,Southampton,Liverpool
+14155,Stoke City,AFC Bournemouth
+14156,Sunderland,Hull City
+14157,Tottenham Hotspur,West Ham United
+14158,Watford,Leicester City
+14159,West Bromwich Albion,Burnley
+14160,Arsenal,AFC Bournemouth
+14161,Burnley,Manchester City
+14162,Chelsea,Tottenham Hotspur
+14163,Hull City,West Bromwich Albion
+14164,Leicester City,Middlesbrough
+14165,Liverpool,Sunderland
+14166,Manchester United,West Ham United
+14167,Southampton,Everton
+14168,Swansea City,Crystal Palace
+14169,Watford,Stoke City
+14170,AFC Bournemouth,Liverpool
+14171,Crystal Palace,Southampton
+14172,Everton,Manchester United
+14173,Manchester City,Chelsea
+14174,Middlesbrough,Hull City
+14175,Stoke City,Burnley
+14176,Sunderland,Leicester City
+14177,Tottenham Hotspur,Swansea City
+14178,West Bromwich Albion,Watford
+14179,West Ham United,Arsenal
+14180,Arsenal,Stoke City
+14181,Burnley,AFC Bournemouth
+14182,Chelsea,West Bromwich Albion
+14183,Hull City,Crystal Palace
+14184,Leicester City,Manchester City
+14185,Liverpool,West Ham United
+14186,Manchester United,Tottenham Hotspur
+14188,Swansea City,Sunderland
+14189,Watford,Everton
+14187,Southampton,Middlesbrough
+14190,AFC Bournemouth,Leicester City
+14191,Crystal Palace,Manchester United
+14192,Middlesbrough,Liverpool
+14193,Sunderland,Chelsea
+14194,West Bromwich Albion,Swansea City
+14195,West Ham United,Burnley
+14196,Everton,Arsenal
+14197,Manchester City,Watford
+14198,Stoke City,Southampton
+14199,Tottenham Hotspur,Hull City
+14200,AFC Bournemouth,Southampton
+14201,Crystal Palace,Chelsea
+14202,Everton,Liverpool
+14203,Manchester City,Arsenal
+14204,Middlesbrough,Swansea City
+14205,Stoke City,Leicester City
+14206,Sunderland,Watford
+14207,Tottenham Hotspur,Burnley
+14208,West Bromwich Albion,Manchester United
+14209,West Ham United,Hull City
+14210,Arsenal,West Bromwich Albion
+14211,Burnley,Middlesbrough
+14212,Chelsea,AFC Bournemouth
+14213,Hull City,Manchester City
+14214,Leicester City,Everton
+14215,Liverpool,Stoke City
+14216,Manchester United,Sunderland
+14217,Southampton,Tottenham Hotspur
+14218,Swansea City,West Ham United
+14219,Watford,Crystal Palace
+14220,Arsenal,Crystal Palace
+14221,Burnley,Sunderland
+14222,Chelsea,Stoke City
+14223,Hull City,Everton
+14224,Leicester City,West Ham United
+14225,Liverpool,Manchester City
+14226,Manchester United,Middlesbrough
+14227,Southampton,West Bromwich Albion
+14228,Swansea City,AFC Bournemouth
+14229,Watford,Tottenham Hotspur
+14230,AFC Bournemouth,Arsenal
+14231,Crystal Palace,Swansea City
+14232,Everton,Southampton
+14233,Manchester City,Burnley
+14234,Middlesbrough,Leicester City
+14235,Stoke City,Watford
+14236,Sunderland,Liverpool
+14237,Tottenham Hotspur,Chelsea
+14238,West Bromwich Albion,Hull City
+14239,West Ham United,Manchester United
+14240,Burnley,Southampton
+14241,Everton,Manchester City
+14242,Hull City,AFC Bournemouth
+14243,Leicester City,Chelsea
+14244,Manchester United,Liverpool
+14245,Sunderland,Stoke City
+14246,Swansea City,Arsenal
+14247,Tottenham Hotspur,West Bromwich Albion
+14248,Watford,Middlesbrough
+14249,West Ham United,Crystal Palace
+14250,Arsenal,Burnley
+14251,AFC Bournemouth,Watford
+14252,Chelsea,Hull City
+14253,Crystal Palace,Everton
+14254,Liverpool,Swansea City
+14255,Manchester City,Tottenham Hotspur
+14256,Middlesbrough,West Ham United
+14257,Southampton,Leicester City
+14258,Stoke City,Manchester United
+14259,West Bromwich Albion,Sunderland
+14260,Arsenal,Watford
+14261,AFC Bournemouth,Crystal Palace
+14262,Burnley,Leicester City
+14263,Manchester United,Hull City
+14264,Middlesbrough,West Bromwich Albion
+14265,Sunderland,Tottenham Hotspur
+14266,Swansea City,Southampton
+14267,West Ham United,Manchester City
+14268,Liverpool,Chelsea
+14269,Stoke City,Everton
+14270,Chelsea,Arsenal
+14271,Crystal Palace,Sunderland
+14272,Everton,AFC Bournemouth
+14273,Hull City,Liverpool
+14274,Leicester City,Manchester United
+14275,Manchester City,Swansea City
+14276,Southampton,West Ham United
+14277,Tottenham Hotspur,Middlesbrough
+14278,Watford,Burnley
+14279,West Bromwich Albion,Stoke City
+14280,Arsenal,Hull City
+14281,AFC Bournemouth,Manchester City
+14282,Burnley,Chelsea
+14283,Liverpool,Tottenham Hotspur
+14284,Manchester United,Watford
+14285,Middlesbrough,Everton
+14286,Stoke City,Crystal Palace
+14287,Sunderland,Southampton
+14288,Swansea City,Leicester City
+14289,West Ham United,West Bromwich Albion
+14290,Chelsea,Swansea City
+14291,Crystal Palace,Middlesbrough
+14293,Hull City,Burnley
+14294,Leicester City,Liverpool
+14297,Tottenham Hotspur,Stoke City
+14298,Watford,West Ham United
+14299,West Bromwich Albion,AFC Bournemouth
+14292,Everton,Sunderland
+14300,Leicester City,Hull City
+14301,Liverpool,Arsenal
+14302,Manchester United,AFC Bournemouth
+14303,Stoke City,Middlesbrough
+14304,Sunderland,Manchester City
+14305,Swansea City,Burnley
+14306,Tottenham Hotspur,Everton
+14307,Watford,Southampton
+14308,West Bromwich Albion,Crystal Palace
+14309,West Ham United,Chelsea
+14317,Manchester City,Stoke City
+14051,Liverpool,Burnley
+14311,AFC Bournemouth,West Ham United
+14315,Everton,West Bromwich Albion
+14316,Hull City,Swansea City
+14320,AFC Bournemouth,Swansea City
+14321,Crystal Palace,Watford
+14322,Everton,Hull City
+14323,Manchester City,Liverpool
+14324,Middlesbrough,Manchester United
+14325,Stoke City,Chelsea
+14326,Sunderland,Burnley
+14327,Tottenham Hotspur,Southampton
+14328,West Bromwich Albion,Arsenal
+14329,West Ham United,Leicester City
+14330,Arsenal,Manchester City
+14331,Burnley,Tottenham Hotspur
+14332,Chelsea,Crystal Palace
+14333,Hull City,West Ham United
+14334,Leicester City,Stoke City
+14335,Liverpool,Everton
+14336,Manchester United,West Bromwich Albion
+14337,Southampton,AFC Bournemouth
+14338,Swansea City,Middlesbrough
+14339,Watford,Sunderland
+14340,Arsenal,West Ham United
+14341,Burnley,Stoke City
+14342,Hull City,Middlesbrough
+14343,Leicester City,Sunderland
+14344,Manchester United,Everton
+14345,Swansea City,Tottenham Hotspur
+14346,Watford,West Bromwich Albion
+14347,Chelsea,Manchester City
+14348,Liverpool,AFC Bournemouth
+14349,Southampton,Crystal Palace
+14350,AFC Bournemouth,Chelsea
+14351,Crystal Palace,Arsenal
+14352,Everton,Leicester City
+14353,Manchester City,Hull City
+14354,Middlesbrough,Burnley
+14355,Stoke City,Liverpool
+14356,Sunderland,Manchester United
+14357,Tottenham Hotspur,Watford
+14358,West Bromwich Albion,Southampton
+14359,West Ham United,Swansea City
+14360,Crystal Palace,Leicester City
+14361,Everton,Burnley
+14362,Manchester United,Chelsea
+14363,Middlesbrough,Arsenal
+14365,Stoke City,Hull City
+14366,Sunderland,West Ham United
+14367,Tottenham Hotspur,AFC Bournemouth
+14368,Watford,Swansea City
+14369,West Bromwich Albion,Liverpool
+14364,Southampton,Manchester City
+14295,Manchester City,Manchester United
+14310,Arsenal,Leicester City
+14314,Crystal Palace,Tottenham Hotspur
+14318,Middlesbrough,Sunderland
+14371,AFC Bournemouth,Middlesbrough
+14372,Burnley,Manchester United
+14373,Chelsea,Southampton
+14374,Hull City,Watford
+14376,Liverpool,Crystal Palace
+14378,Swansea City,Stoke City
+14379,West Ham United,Everton
+14380,Crystal Palace,Burnley
+14381,Everton,Chelsea
+14382,Manchester United,Swansea City
+14383,Middlesbrough,Manchester City
+14384,Southampton,Hull City
+14385,Stoke City,West Ham United
+14386,Sunderland,AFC Bournemouth
+14387,Tottenham Hotspur,Arsenal
+14388,Watford,Liverpool
+14389,West Bromwich Albion,Leicester City
+14296,Southampton,Arsenal
+14390,Arsenal,Manchester United
+14391,AFC Bournemouth,Stoke City
+14392,Burnley,West Bromwich Albion
+14393,Chelsea,Middlesbrough
+14394,Hull City,Sunderland
+14395,Leicester City,Watford
+14396,Liverpool,Southampton
+14397,Manchester City,Crystal Palace
+14398,Swansea City,Everton
+14399,West Ham United,Tottenham Hotspur
+14313,Chelsea,Watford
+14319,Southampton,Manchester United
+14370,Arsenal,Sunderland
+14375,Leicester City,Tottenham Hotspur
+14377,Manchester City,West Bromwich Albion
+14400,AFC Bournemouth,Burnley
+14402,Everton,Watford
+14403,Manchester City,Leicester City
+14404,Middlesbrough,Southampton
+14405,Stoke City,Arsenal
+14406,Sunderland,Swansea City
+14407,Tottenham Hotspur,Manchester United
+14408,West Bromwich Albion,Chelsea
+14409,West Ham United,Liverpool
+14401,Crystal Palace,Hull City
+14410,Arsenal,Everton
+14411,Burnley,West Ham United
+14412,Chelsea,Sunderland
+14413,Hull City,Tottenham Hotspur
+14414,Leicester City,AFC Bournemouth
+14415,Liverpool,Middlesbrough
+14416,Manchester United,Crystal Palace
+14417,Southampton,Stoke City
+14418,Swansea City,West Bromwich Albion
+14419,Watford,Manchester City
+22342,Arsenal,Leicester City
+22343,Brighton and Hove Albion,Manchester City
+22344,Chelsea,Burnley
+22345,Crystal Palace,Huddersfield Town
+22346,Everton,Stoke City
+22347,Manchester United,West Ham United
+22348,Newcastle United,Tottenham Hotspur
+22349,Southampton,Swansea City
+22350,Watford,Liverpool
+22351,West Bromwich Albion,AFC Bournemouth
+22352,AFC Bournemouth,Watford
+22353,Burnley,West Bromwich Albion
+22354,Huddersfield Town,Newcastle United
+22355,Leicester City,Brighton and Hove Albion
+22356,Liverpool,Crystal Palace
+22357,Manchester City,Everton
+22358,Stoke City,Arsenal
+22359,Swansea City,Manchester United
+22360,Tottenham Hotspur,Chelsea
+22659,Southampton,West Ham United
+22362,AFC Bournemouth,Manchester City
+22363,Chelsea,Everton
+22364,Crystal Palace,Swansea City
+22365,Huddersfield Town,Southampton
+22366,Liverpool,Arsenal
+22367,Manchester United,Leicester City
+22368,Newcastle United,West Ham United
+22369,Tottenham Hotspur,Burnley
+22370,Watford,Brighton and Hove Albion
+22371,West Bromwich Albion,Stoke City
+22372,Arsenal,AFC Bournemouth
+22373,Brighton and Hove Albion,West Bromwich Albion
+22374,Burnley,Crystal Palace
+22375,Everton,Tottenham Hotspur
+22376,Leicester City,Chelsea
+22377,Manchester City,Liverpool
+22378,Southampton,Watford
+22379,Stoke City,Manchester United
+22380,Swansea City,Newcastle United
+22381,West Ham United,Huddersfield Town
+22382,AFC Bournemouth,Brighton and Hove Albion
+22383,Chelsea,Arsenal
+22384,Crystal Palace,Southampton
+22385,Huddersfield Town,Leicester City
+22386,Liverpool,Burnley
+22387,Manchester United,Everton
+22388,Newcastle United,Stoke City
+22389,Tottenham Hotspur,Swansea City
+22390,Watford,Manchester City
+22391,West Bromwich Albion,West Ham United
+22392,Arsenal,West Bromwich Albion
+22393,Brighton and Hove Albion,Newcastle United
+22394,Burnley,Huddersfield Town
+22395,Everton,AFC Bournemouth
+22396,Leicester City,Liverpool
+22397,Manchester City,Crystal Palace
+22398,Southampton,Manchester United
+22399,Stoke City,Chelsea
+22400,Swansea City,Watford
+22401,West Ham United,Tottenham Hotspur
+22402,Arsenal,Brighton and Hove Albion
+22403,AFC Bournemouth,Leicester City
+22404,Chelsea,Manchester City
+22405,Everton,Burnley
+22406,Huddersfield Town,Tottenham Hotspur
+22407,Manchester United,Crystal Palace
+22408,Newcastle United,Liverpool
+22409,Stoke City,Southampton
+22410,West Bromwich Albion,Watford
+22411,West Ham United,Swansea City
+22412,Brighton and Hove Albion,Everton
+22413,Burnley,West Ham United
+22414,Crystal Palace,Chelsea
+22415,Leicester City,West Bromwich Albion
+22416,Liverpool,Manchester United
+22417,Manchester City,Stoke City
+22418,Southampton,Newcastle United
+22419,Swansea City,Huddersfield Town
+22420,Tottenham Hotspur,AFC Bournemouth
+22421,Watford,Arsenal
+22422,Chelsea,Watford
+22423,Everton,Arsenal
+22424,Huddersfield Town,Manchester United
+22425,Manchester City,Burnley
+22426,Newcastle United,Crystal Palace
+22427,Southampton,West Bromwich Albion
+22428,Stoke City,AFC Bournemouth
+22429,Swansea City,Leicester City
+22430,Tottenham Hotspur,Liverpool
+22431,West Ham United,Brighton and Hove Albion
+22432,Arsenal,Swansea City
+22433,AFC Bournemouth,Chelsea
+22434,Brighton and Hove Albion,Southampton
+22435,Burnley,Newcastle United
+22436,Crystal Palace,West Ham United
+22437,Leicester City,Everton
+22438,Liverpool,Huddersfield Town
+22439,Manchester United,Tottenham Hotspur
+22440,Watford,Stoke City
+22441,West Bromwich Albion,Manchester City
+22442,Chelsea,Manchester United
+22443,Everton,Watford
+22444,Huddersfield Town,West Bromwich Albion
+22445,Manchester City,Arsenal
+22446,Newcastle United,AFC Bournemouth
+22447,Southampton,Burnley
+22448,Stoke City,Leicester City
+22449,Swansea City,Brighton and Hove Albion
+22450,Tottenham Hotspur,Crystal Palace
+22451,West Ham United,Liverpool
+22452,Arsenal,Tottenham Hotspur
+22453,AFC Bournemouth,Huddersfield Town
+22454,Brighton and Hove Albion,Stoke City
+22455,Burnley,Swansea City
+22456,Crystal Palace,Everton
+22457,Leicester City,Manchester City
+22458,Liverpool,Southampton
+22459,Manchester United,Newcastle United
+22460,Watford,West Ham United
+22461,West Bromwich Albion,Chelsea
+22462,Burnley,Arsenal
+22463,Crystal Palace,Stoke City
+22464,Huddersfield Town,Manchester City
+22465,Liverpool,Chelsea
+22466,Manchester United,Brighton and Hove Albion
+22467,Newcastle United,Watford
+22468,Southampton,Everton
+22469,Swansea City,AFC Bournemouth
+22470,Tottenham Hotspur,West Bromwich Albion
+22471,West Ham United,Leicester City
+22472,Arsenal,Huddersfield Town
+22473,AFC Bournemouth,Burnley
+22474,Brighton and Hove Albion,Crystal Palace
+22475,Leicester City,Tottenham Hotspur
+22476,Watford,Manchester United
+22477,West Bromwich Albion,Newcastle United
+22478,Chelsea,Swansea City
+22479,Everton,West Ham United
+22480,Manchester City,Southampton
+22481,Stoke City,Liverpool
+22482,Arsenal,Manchester United
+22483,AFC Bournemouth,Southampton
+22484,Brighton and Hove Albion,Liverpool
+22485,Chelsea,Newcastle United
+22486,Everton,Huddersfield Town
+22487,Leicester City,Burnley
+22488,Manchester City,West Ham United
+22489,Stoke City,Swansea City
+22490,Watford,Tottenham Hotspur
+22491,West Bromwich Albion,Crystal Palace
+22492,Burnley,Watford
+22493,Crystal Palace,AFC Bournemouth
+22494,Huddersfield Town,Brighton and Hove Albion
+22495,Liverpool,Everton
+22496,Manchester United,Manchester City
+22497,Newcastle United,Leicester City
+22498,Southampton,Arsenal
+22499,Swansea City,West Bromwich Albion
+22500,Tottenham Hotspur,Stoke City
+22501,West Ham United,Chelsea
+22502,Burnley,Stoke City
+22503,Crystal Palace,Watford
+22504,Huddersfield Town,Chelsea
+22505,Manchester United,AFC Bournemouth
+22506,Swansea City,Manchester City
+22507,West Ham United,Arsenal
+22508,Liverpool,West Bromwich Albion
+22509,Newcastle United,Everton
+22510,Southampton,Leicester City
+22511,Tottenham Hotspur,Brighton and Hove Albion
+22512,Arsenal,Newcastle United
+22513,AFC Bournemouth,Liverpool
+22514,Brighton and Hove Albion,Burnley
+22515,Chelsea,Southampton
+22516,Everton,Swansea City
+22517,Leicester City,Crystal Palace
+22518,Manchester City,Tottenham Hotspur
+22519,Stoke City,West Ham United
+22520,Watford,Huddersfield Town
+22521,West Bromwich Albion,Manchester United
+22522,Arsenal,Liverpool
+22523,Brighton and Hove Albion,Watford
+22524,Burnley,Tottenham Hotspur
+22525,Everton,Chelsea
+22526,Leicester City,Manchester United
+22527,Manchester City,AFC Bournemouth
+22528,Southampton,Huddersfield Town
+22529,Stoke City,West Bromwich Albion
+22530,Swansea City,Crystal Palace
+22531,West Ham United,Newcastle United
+22532,AFC Bournemouth,West Ham United
+22533,Chelsea,Brighton and Hove Albion
+22534,Crystal Palace,Arsenal
+22535,Huddersfield Town,Stoke City
+22536,Liverpool,Swansea City
+22537,Manchester United,Burnley
+22538,Newcastle United,Manchester City
+22539,Tottenham Hotspur,Southampton
+22540,Watford,Leicester City
+22541,West Bromwich Albion,Everton
+22542,AFC Bournemouth,Everton
+22543,Chelsea,Stoke City
+22544,Crystal Palace,Manchester City
+22545,Huddersfield Town,Burnley
+22546,Liverpool,Leicester City
+22547,Manchester United,Southampton
+22548,Newcastle United,Brighton and Hove Albion
+22550,Watford,Swansea City
+22551,West Bromwich Albion,Arsenal
+22549,Tottenham Hotspur,West Ham United
+22552,Arsenal,Chelsea
+22553,Brighton and Hove Albion,AFC Bournemouth
+22554,Burnley,Liverpool
+22555,Everton,Manchester United
+22556,Leicester City,Huddersfield Town
+22557,Manchester City,Watford
+22558,Southampton,Crystal Palace
+22559,Stoke City,Newcastle United
+22560,Swansea City,Tottenham Hotspur
+22561,West Ham United,West Bromwich Albion
+22562,AFC Bournemouth,Arsenal
+22563,Chelsea,Leicester City
+22564,Crystal Palace,Burnley
+22565,Huddersfield Town,West Ham United
+22566,Liverpool,Manchester City
+22567,Manchester United,Stoke City
+22568,Newcastle United,Swansea City
+22569,Tottenham Hotspur,Everton
+22570,Watford,Southampton
+22571,West Bromwich Albion,Brighton and Hove Albion
+22572,Arsenal,Crystal Palace
+22573,Brighton and Hove Albion,Chelsea
+22574,Burnley,Manchester United
+22575,Everton,West Bromwich Albion
+22576,Leicester City,Watford
+22577,Manchester City,Newcastle United
+22578,Southampton,Tottenham Hotspur
+22579,Stoke City,Huddersfield Town
+22580,Swansea City,Liverpool
+22581,West Ham United,AFC Bournemouth
+22582,Huddersfield Town,Liverpool
+22583,Swansea City,Arsenal
+22584,West Ham United,Crystal Palace
+22585,Chelsea,AFC Bournemouth
+22586,Everton,Leicester City
+22587,Manchester City,West Bromwich Albion
+22588,Newcastle United,Burnley
+22589,Southampton,Brighton and Hove Albion
+22590,Stoke City,Watford
+22591,Tottenham Hotspur,Manchester United
+22592,Arsenal,Everton
+22593,AFC Bournemouth,Stoke City
+22594,Brighton and Hove Albion,West Ham United
+22595,Burnley,Manchester City
+22596,Crystal Palace,Newcastle United
+22597,Leicester City,Swansea City
+22598,Liverpool,Tottenham Hotspur
+22599,Manchester United,Huddersfield Town
+22600,Watford,Chelsea
+22601,West Bromwich Albion,Southampton
+22602,Chelsea,West Bromwich Albion
+22603,Everton,Crystal Palace
+22604,Huddersfield Town,AFC Bournemouth
+22605,Manchester City,Leicester City
+22606,Newcastle United,Manchester United
+22607,Southampton,Liverpool
+22608,Stoke City,Brighton and Hove Albion
+22609,Swansea City,Burnley
+22610,Tottenham Hotspur,Arsenal
+22611,West Ham United,Watford
+22612,Arsenal,Manchester City
+22613,AFC Bournemouth,Newcastle United
+22614,Brighton and Hove Albion,Swansea City
+22615,Burnley,Southampton
+22616,Crystal Palace,Tottenham Hotspur
+22617,Leicester City,Stoke City
+22618,Liverpool,West Ham United
+22619,Manchester United,Chelsea
+22620,Watford,Everton
+22621,West Bromwich Albion,Huddersfield Town
+22622,Brighton and Hove Albion,Arsenal
+22623,Burnley,Everton
+22624,Crystal Palace,Manchester United
+22625,Leicester City,AFC Bournemouth
+22626,Liverpool,Newcastle United
+22627,Manchester City,Chelsea
+22628,Southampton,Stoke City
+22629,Swansea City,West Ham United
+22630,Tottenham Hotspur,Huddersfield Town
+22631,Watford,West Bromwich Albion
+22632,Arsenal,Watford
+22633,AFC Bournemouth,Tottenham Hotspur
+22634,Chelsea,Crystal Palace
+22635,Everton,Brighton and Hove Albion
+22636,Huddersfield Town,Swansea City
+22637,Manchester United,Liverpool
+22638,Newcastle United,Southampton
+22639,Stoke City,Manchester City
+22640,West Bromwich Albion,Leicester City
+22641,West Ham United,Burnley
+22642,AFC Bournemouth,West Bromwich Albion
+22644,Huddersfield Town,Crystal Palace
+22646,Liverpool,Watford
+22648,Stoke City,Everton
+22361,West Ham United,Southampton
+22652,Arsenal,Stoke City
+22653,Brighton and Hove Albion,Leicester City
+22654,Chelsea,Tottenham Hotspur
+22655,Crystal Palace,Liverpool
+22656,Everton,Manchester City
+22657,Manchester United,Swansea City
+22658,Newcastle United,Huddersfield Town
+22660,Watford,AFC Bournemouth
+22661,West Bromwich Albion,Burnley
+22662,Arsenal,Southampton
+22663,AFC Bournemouth,Crystal Palace
+22664,Brighton and Hove Albion,Huddersfield Town
+22665,Chelsea,West Ham United
+22666,Everton,Liverpool
+22667,Leicester City,Newcastle United
+22668,Manchester City,Manchester United
+22669,Stoke City,Tottenham Hotspur
+22670,Watford,Burnley
+22671,West Bromwich Albion,Swansea City
+22643,Burnley,Chelsea
+22672,Burnley,Leicester City
+22673,Crystal Palace,Brighton and Hove Albion
+22674,Huddersfield Town,Watford
+22675,Liverpool,AFC Bournemouth
+22676,Manchester United,West Bromwich Albion
+22677,Newcastle United,Arsenal
+22678,Southampton,Chelsea
+22679,Swansea City,Everton
+22680,Tottenham Hotspur,Manchester City
+22681,West Ham United,Stoke City
+22683,AFC Bournemouth,Manchester United
+22684,Brighton and Hove Albion,Tottenham Hotspur
+22687,Leicester City,Southampton
+22682,Arsenal,West Ham United
+22686,Everton,Newcastle United
+22688,Manchester City,Swansea City
+22689,Stoke City,Burnley
+22690,Watford,Crystal Palace
+22691,West Bromwich Albion,Liverpool
+22692,Burnley,Brighton and Hove Albion
+22693,Crystal Palace,Leicester City
+22694,Huddersfield Town,Everton
+22695,Liverpool,Stoke City
+22696,Manchester United,Arsenal
+22697,Newcastle United,West Bromwich Albion
+22698,Southampton,AFC Bournemouth
+22699,Swansea City,Chelsea
+22700,Tottenham Hotspur,Watford
+22701,West Ham United,Manchester City
+22645,Leicester City,Arsenal
+22647,Manchester City,Brighton and Hove Albion
+22649,Swansea City,Southampton
+22650,Tottenham Hotspur,Newcastle United
+22651,West Ham United,Manchester United
+22685,Chelsea,Huddersfield Town
+22702,Arsenal,Burnley
+22703,AFC Bournemouth,Swansea City
+22704,Brighton and Hove Albion,Manchester United
+22705,Chelsea,Liverpool
+22706,Everton,Southampton
+22707,Leicester City,West Ham United
+22708,Manchester City,Huddersfield Town
+22709,Stoke City,Crystal Palace
+22710,Watford,Newcastle United
+22711,West Bromwich Albion,Tottenham Hotspur
+22712,Burnley,AFC Bournemouth
+22713,Crystal Palace,West Bromwich Albion
+22714,Huddersfield Town,Arsenal
+22715,Liverpool,Brighton and Hove Albion
+22716,Manchester United,Watford
+22717,Newcastle United,Chelsea
+22718,Southampton,Manchester City
+22719,Swansea City,Stoke City
+22720,Tottenham Hotspur,Leicester City
+22721,West Ham United,Everton
+38308,Arsenal,Manchester City
+38309,AFC Bournemouth,Cardiff City
+38310,Fulham,Crystal Palace
+38311,Huddersfield Town,Chelsea
+38312,Liverpool,West Ham United
+38313,Manchester United,Leicester City
+38314,Newcastle United,Tottenham Hotspur
+38315,Southampton,Burnley
+38316,Watford,Brighton and Hove Albion
+38317,Wolverhampton Wanderers,Everton
+38318,Brighton and Hove Albion,Manchester United
+38319,Burnley,Watford
+38320,Cardiff City,Newcastle United
+38321,Chelsea,Arsenal
+38322,Crystal Palace,Liverpool
+38323,Everton,Southampton
+38324,Leicester City,Wolverhampton Wanderers
+38325,Manchester City,Huddersfield Town
+38326,Tottenham Hotspur,Fulham
+38327,West Ham United,AFC Bournemouth
+38328,Arsenal,West Ham United
+38329,AFC Bournemouth,Everton
+38330,Fulham,Burnley
+38331,Huddersfield Town,Cardiff City
+38332,Liverpool,Brighton and Hove Albion
+38333,Manchester United,Tottenham Hotspur
+38334,Newcastle United,Chelsea
+38335,Southampton,Leicester City
+38336,Watford,Crystal Palace
+38337,Wolverhampton Wanderers,Manchester City
+38338,Brighton and Hove Albion,Fulham
+38339,Burnley,Manchester United
+38340,Cardiff City,Arsenal
+38341,Chelsea,AFC Bournemouth
+38342,Crystal Palace,Southampton
+38343,Everton,Huddersfield Town
+38344,Leicester City,Liverpool
+38345,Manchester City,Newcastle United
+38346,Watford,Tottenham Hotspur
+38347,West Ham United,Wolverhampton Wanderers
+38348,AFC Bournemouth,Leicester City
+38349,Chelsea,Cardiff City
+38350,Everton,West Ham United
+38351,Huddersfield Town,Crystal Palace
+38352,Manchester City,Fulham
+38353,Newcastle United,Arsenal
+38354,Southampton,Brighton and Hove Albion
+38355,Tottenham Hotspur,Liverpool
+38356,Watford,Manchester United
+38357,Wolverhampton Wanderers,Burnley
+38359,Brighton and Hove Albion,Tottenham Hotspur
+38360,Burnley,AFC Bournemouth
+38361,Cardiff City,Manchester City
+38362,Crystal Palace,Newcastle United
+38363,Fulham,Watford
+38364,Leicester City,Huddersfield Town
+38365,Liverpool,Southampton
+38366,Manchester United,Wolverhampton Wanderers
+38367,West Ham United,Chelsea
+38358,Arsenal,Everton
+38368,Arsenal,Watford
+38369,AFC Bournemouth,Crystal Palace
+38370,Cardiff City,Burnley
+38371,Chelsea,Liverpool
+38372,Everton,Fulham
+38373,Huddersfield Town,Tottenham Hotspur
+38374,Manchester City,Brighton and Hove Albion
+38375,Newcastle United,Leicester City
+38376,West Ham United,Manchester United
+38377,Wolverhampton Wanderers,Southampton
+38378,Brighton and Hove Albion,West Ham United
+38379,Burnley,Huddersfield Town
+38380,Crystal Palace,Wolverhampton Wanderers
+38381,Fulham,Arsenal
+38382,Leicester City,Everton
+38383,Liverpool,Manchester City
+38384,Manchester United,Newcastle United
+38385,Southampton,Chelsea
+38386,Tottenham Hotspur,Cardiff City
+38387,Watford,AFC Bournemouth
+38388,Arsenal,Leicester City
+38389,AFC Bournemouth,Southampton
+38390,Cardiff City,Fulham
+38391,Chelsea,Manchester United
+38392,Everton,Crystal Palace
+38393,Huddersfield Town,Liverpool
+38394,Manchester City,Burnley
+38395,Newcastle United,Brighton and Hove Albion
+38396,West Ham United,Tottenham Hotspur
+38397,Wolverhampton Wanderers,Watford
+38398,Brighton and Hove Albion,Wolverhampton Wanderers
+38399,Burnley,Chelsea
+38400,Crystal Palace,Arsenal
+38401,Fulham,AFC Bournemouth
+38402,Leicester City,West Ham United
+38403,Liverpool,Cardiff City
+38404,Manchester United,Everton
+38405,Southampton,Newcastle United
+38406,Tottenham Hotspur,Manchester City
+38407,Watford,Huddersfield Town
+38408,Arsenal,Liverpool
+38409,AFC Bournemouth,Manchester United
+38410,Cardiff City,Leicester City
+38411,Chelsea,Crystal Palace
+38412,Everton,Brighton and Hove Albion
+38413,Huddersfield Town,Fulham
+38414,Manchester City,Southampton
+38415,Newcastle United,Watford
+38416,West Ham United,Burnley
+38417,Wolverhampton Wanderers,Tottenham Hotspur
+38418,Arsenal,Wolverhampton Wanderers
+38419,Cardiff City,Brighton and Hove Albion
+38420,Chelsea,Everton
+38421,Crystal Palace,Tottenham Hotspur
+38422,Huddersfield Town,West Ham United
+38423,Leicester City,Burnley
+38424,Liverpool,Fulham
+38425,Manchester City,Manchester United
+38426,Newcastle United,AFC Bournemouth
+38427,Southampton,Watford
+38428,AFC Bournemouth,Arsenal
+38429,Brighton and Hove Albion,Leicester City
+38430,Burnley,Newcastle United
+38431,Everton,Cardiff City
+38432,Fulham,Southampton
+38433,Manchester United,Crystal Palace
+38434,Tottenham Hotspur,Chelsea
+38435,Watford,Liverpool
+38436,West Ham United,Manchester City
+38437,Wolverhampton Wanderers,Huddersfield Town
+38438,Arsenal,Tottenham Hotspur
+38439,Cardiff City,Wolverhampton Wanderers
+38440,Chelsea,Fulham
+38441,Crystal Palace,Burnley
+38442,Huddersfield Town,Brighton and Hove Albion
+38443,Leicester City,Watford
+38444,Liverpool,Everton
+38445,Manchester City,AFC Bournemouth
+38446,Newcastle United,West Ham United
+38447,Southampton,Manchester United
+38448,AFC Bournemouth,Huddersfield Town
+38449,Brighton and Hove Albion,Crystal Palace
+38450,Burnley,Liverpool
+38451,Fulham,Leicester City
+38452,Manchester United,Arsenal
+38453,Watford,Manchester City
+38454,West Ham United,Cardiff City
+38455,Wolverhampton Wanderers,Chelsea
+38456,Everton,Newcastle United
+38457,Tottenham Hotspur,Southampton
+38458,Arsenal,Huddersfield Town
+38459,AFC Bournemouth,Liverpool
+38460,Burnley,Brighton and Hove Albion
+38461,Cardiff City,Southampton
+38462,Chelsea,Manchester City
+38463,Everton,Watford
+38464,Leicester City,Tottenham Hotspur
+38465,Manchester United,Fulham
+38466,Newcastle United,Wolverhampton Wanderers
+38467,West Ham United,Crystal Palace
+38468,Brighton and Hove Albion,Chelsea
+38469,Crystal Palace,Leicester City
+38470,Fulham,West Ham United
+38471,Huddersfield Town,Newcastle United
+38472,Liverpool,Manchester United
+38473,Manchester City,Everton
+38474,Southampton,Arsenal
+38475,Tottenham Hotspur,Burnley
+38476,Watford,Cardiff City
+38477,Wolverhampton Wanderers,AFC Bournemouth
+38478,Arsenal,Burnley
+38479,AFC Bournemouth,Brighton and Hove Albion
+38480,Cardiff City,Manchester United
+38481,Chelsea,Leicester City
+38482,Everton,Tottenham Hotspur
+38483,Huddersfield Town,Southampton
+38484,Manchester City,Crystal Palace
+38485,Newcastle United,Fulham
+38486,West Ham United,Watford
+38487,Wolverhampton Wanderers,Liverpool
+38488,Brighton and Hove Albion,Arsenal
+38489,Burnley,Everton
+38490,Crystal Palace,Cardiff City
+38491,Fulham,Wolverhampton Wanderers
+38492,Leicester City,Manchester City
+38493,Liverpool,Newcastle United
+38494,Manchester United,Huddersfield Town
+38495,Southampton,West Ham United
+38496,Tottenham Hotspur,AFC Bournemouth
+38497,Watford,Chelsea
+38498,Brighton and Hove Albion,Everton
+38499,Burnley,West Ham United
+38500,Crystal Palace,Chelsea
+38501,Fulham,Huddersfield Town
+38502,Leicester City,Cardiff City
+38503,Liverpool,Arsenal
+38504,Manchester United,AFC Bournemouth
+38505,Southampton,Manchester City
+38506,Tottenham Hotspur,Wolverhampton Wanderers
+38507,Watford,Newcastle United
+38508,Arsenal,Fulham
+38509,AFC Bournemouth,Watford
+38510,Cardiff City,Tottenham Hotspur
+38511,Chelsea,Southampton
+38512,Everton,Leicester City
+38513,Huddersfield Town,Burnley
+38514,Manchester City,Liverpool
+38515,Newcastle United,Manchester United
+38516,West Ham United,Brighton and Hove Albion
+38517,Wolverhampton Wanderers,Crystal Palace
+38518,Brighton and Hove Albion,Liverpool
+38519,Burnley,Fulham
+38520,Cardiff City,Huddersfield Town
+38521,Chelsea,Newcastle United
+38522,Crystal Palace,Watford
+38523,Everton,AFC Bournemouth
+38524,Leicester City,Southampton
+38525,Manchester City,Wolverhampton Wanderers
+38526,Tottenham Hotspur,Manchester United
+38527,West Ham United,Arsenal
+38528,Arsenal,Chelsea
+38529,AFC Bournemouth,West Ham United
+38530,Fulham,Tottenham Hotspur
+38531,Huddersfield Town,Manchester City
+38532,Liverpool,Crystal Palace
+38533,Manchester United,Brighton and Hove Albion
+38534,Newcastle United,Cardiff City
+38535,Southampton,Everton
+38536,Watford,Burnley
+38537,Wolverhampton Wanderers,Leicester City
+38538,Arsenal,Cardiff City
+38539,AFC Bournemouth,Chelsea
+38540,Fulham,Brighton and Hove Albion
+38541,Huddersfield Town,Everton
+38542,Manchester United,Burnley
+38543,Wolverhampton Wanderers,West Ham United
+38544,Liverpool,Leicester City
+38545,Newcastle United,Manchester City
+38546,Southampton,Crystal Palace
+38547,Tottenham Hotspur,Watford
+38548,Brighton and Hove Albion,Watford
+38549,Burnley,Southampton
+38550,Cardiff City,AFC Bournemouth
+38551,Chelsea,Huddersfield Town
+38552,Crystal Palace,Fulham
+38553,Everton,Wolverhampton Wanderers
+38554,Leicester City,Manchester United
+38555,Manchester City,Arsenal
+38556,Tottenham Hotspur,Newcastle United
+38557,West Ham United,Liverpool
+38573,Everton,Manchester City
+38558,Brighton and Hove Albion,Burnley
+38559,Crystal Palace,West Ham United
+38560,Fulham,Manchester United
+38561,Huddersfield Town,Arsenal
+38562,Liverpool,AFC Bournemouth
+38563,Manchester City,Chelsea
+38564,Southampton,Cardiff City
+38565,Tottenham Hotspur,Leicester City
+38566,Watford,Everton
+38567,Wolverhampton Wanderers,Newcastle United
+38568,Arsenal,Southampton
+38569,AFC Bournemouth,Wolverhampton Wanderers
+38570,Burnley,Tottenham Hotspur
+38571,Cardiff City,Watford
+38574,Leicester City,Crystal Palace
+38575,Manchester United,Liverpool
+38576,Newcastle United,Huddersfield Town
+38577,West Ham United,Fulham
+38578,Arsenal,AFC Bournemouth
+38579,Cardiff City,Everton
+38580,Crystal Palace,Manchester United
+38581,Huddersfield Town,Wolverhampton Wanderers
+38582,Leicester City,Brighton and Hove Albion
+38583,Chelsea,Tottenham Hotspur
+38584,Liverpool,Watford
+38585,Manchester City,West Ham United
+38586,Newcastle United,Burnley
+38587,Southampton,Fulham
+38588,AFC Bournemouth,Manchester City
+38589,Brighton and Hove Albion,Huddersfield Town
+38590,Burnley,Crystal Palace
+38591,Everton,Liverpool
+38592,Fulham,Chelsea
+38593,Manchester United,Southampton
+38594,Tottenham Hotspur,Arsenal
+38595,Watford,Leicester City
+38596,West Ham United,Newcastle United
+38597,Wolverhampton Wanderers,Cardiff City
+38598,Arsenal,Manchester United
+38599,Cardiff City,West Ham United
+38600,Chelsea,Wolverhampton Wanderers
+38601,Crystal Palace,Brighton and Hove Albion
+38602,Huddersfield Town,AFC Bournemouth
+38603,Leicester City,Fulham
+38604,Liverpool,Burnley
+38605,Manchester City,Watford
+38606,Newcastle United,Everton
+38607,Southampton,Tottenham Hotspur
+38608,AFC Bournemouth,Newcastle United
+38610,Burnley,Leicester City
+38611,Everton,Chelsea
+38612,Fulham,Liverpool
+38616,West Ham United,Huddersfield Town
+38572,Chelsea,Brighton and Hove Albion
+38618,Arsenal,Newcastle United
+38619,Brighton and Hove Albion,Southampton
+38620,Burnley,Wolverhampton Wanderers
+38621,Cardiff City,Chelsea
+38622,Crystal Palace,Huddersfield Town
+38623,Fulham,Manchester City
+38624,Leicester City,AFC Bournemouth
+38625,Liverpool,Tottenham Hotspur
+38626,Manchester United,Watford
+38627,West Ham United,Everton
+38632,Manchester City,Cardiff City
+38636,Watford,Fulham
+38637,Wolverhampton Wanderers,Manchester United
+38628,AFC Bournemouth,Burnley
+38629,Chelsea,West Ham United
+38630,Everton,Arsenal
+38631,Huddersfield Town,Leicester City
+38633,Newcastle United,Crystal Palace
+38634,Southampton,Liverpool
+38609,Brighton and Hove Albion,Cardiff City
+38638,Brighton and Hove Albion,AFC Bournemouth
+38639,Burnley,Cardiff City
+38640,Crystal Palace,Manchester City
+38641,Fulham,Everton
+38642,Leicester City,Newcastle United
+38643,Liverpool,Chelsea
+38644,Manchester United,West Ham United
+38645,Southampton,Wolverhampton Wanderers
+38646,Tottenham Hotspur,Huddersfield Town
+38647,Watford,Arsenal
+38613,Manchester United,Manchester City
+38615,Watford,Southampton
+38617,Wolverhampton Wanderers,Arsenal
+38635,Tottenham Hotspur,Brighton and Hove Albion
+38648,Arsenal,Crystal Palace
+38649,AFC Bournemouth,Fulham
+38650,Cardiff City,Liverpool
+38651,Chelsea,Burnley
+38652,Everton,Manchester United
+38653,Huddersfield Town,Watford
+38654,Manchester City,Tottenham Hotspur
+38655,Newcastle United,Southampton
+38656,West Ham United,Leicester City
+38657,Wolverhampton Wanderers,Brighton and Hove Albion
+38658,Brighton and Hove Albion,Newcastle United
+38659,Burnley,Manchester City
+38660,Crystal Palace,Everton
+38661,Fulham,Cardiff City
+38662,Leicester City,Arsenal
+38663,Liverpool,Huddersfield Town
+38664,Manchester United,Chelsea
+38665,Southampton,AFC Bournemouth
+38666,Tottenham Hotspur,West Ham United
+38667,Watford,Wolverhampton Wanderers
+38668,Arsenal,Brighton and Hove Albion
+38669,AFC Bournemouth,Tottenham Hotspur
+38670,Cardiff City,Crystal Palace
+38671,Chelsea,Watford
+38672,Everton,Burnley
+38673,Huddersfield Town,Manchester United
+38674,Manchester City,Leicester City
+38675,Newcastle United,Liverpool
+38676,West Ham United,Southampton
+38677,Wolverhampton Wanderers,Fulham
+38678,Brighton and Hove Albion,Manchester City
+38679,Burnley,Arsenal
+38680,Crystal Palace,AFC Bournemouth
+38681,Fulham,Newcastle United
+38682,Leicester City,Chelsea
+38683,Liverpool,Wolverhampton Wanderers
+38684,Manchester United,Cardiff City
+38685,Southampton,Huddersfield Town
+38686,Tottenham Hotspur,Everton
+38687,Watford,West Ham United
+46605,Liverpool,Norwich City
+46606,AFC Bournemouth,Sheffield United
+46607,Burnley,Southampton
+46608,Crystal Palace,Everton
+46609,Leicester City,Wolverhampton Wanderers
+46610,Tottenham Hotspur,Aston Villa
+46611,Watford,Brighton and Hove Albion
+46612,West Ham United,Manchester City
+46613,Manchester United,Chelsea
+46614,Newcastle United,Arsenal
+46615,Arsenal,Burnley
+46616,Aston Villa,AFC Bournemouth
+46617,Brighton and Hove Albion,West Ham United
+46618,Chelsea,Leicester City
+46619,Everton,Watford
+46620,Manchester City,Tottenham Hotspur
+46621,Norwich City,Newcastle United
+46622,Sheffield United,Crystal Palace
+46623,Southampton,Liverpool
+46624,Wolverhampton Wanderers,Manchester United
+46625,Aston Villa,Everton
+46626,AFC Bournemouth,Manchester City
+46627,Brighton and Hove Albion,Southampton
+46628,Liverpool,Arsenal
+46629,Manchester United,Crystal Palace
+46630,Norwich City,Chelsea
+46631,Sheffield United,Leicester City
+46632,Tottenham Hotspur,Newcastle United
+46633,Watford,West Ham United
+46634,Wolverhampton Wanderers,Burnley
+46635,Arsenal,Tottenham Hotspur
+46636,Burnley,Liverpool
+46637,Chelsea,Sheffield United
+46638,Crystal Palace,Aston Villa
+46639,Everton,Wolverhampton Wanderers
+46640,Leicester City,AFC Bournemouth
+46641,Manchester City,Brighton and Hove Albion
+46642,Newcastle United,Watford
+46643,Southampton,Manchester United
+46644,West Ham United,Norwich City
+46645,Aston Villa,West Ham United
+46646,AFC Bournemouth,Everton
+46647,Brighton and Hove Albion,Burnley
+46648,Liverpool,Newcastle United
+46649,Manchester United,Leicester City
+46650,Norwich City,Manchester City
+46651,Sheffield United,Southampton
+46652,Tottenham Hotspur,Crystal Palace
+46653,Watford,Arsenal
+46654,Wolverhampton Wanderers,Chelsea
+46655,Arsenal,Aston Villa
+46656,Burnley,Norwich City
+46657,Chelsea,Liverpool
+46658,Crystal Palace,Wolverhampton Wanderers
+46659,Everton,Sheffield United
+46660,Leicester City,Tottenham Hotspur
+46661,Manchester City,Watford
+46662,Newcastle United,Brighton and Hove Albion
+46663,Southampton,AFC Bournemouth
+46664,West Ham United,Manchester United
+46665,Aston Villa,Burnley
+46666,AFC Bournemouth,West Ham United
+46667,Chelsea,Brighton and Hove Albion
+46668,Crystal Palace,Norwich City
+46669,Everton,Manchester City
+46670,Leicester City,Newcastle United
+46671,Manchester United,Arsenal
+46672,Sheffield United,Liverpool
+46673,Tottenham Hotspur,Southampton
+46674,Wolverhampton Wanderers,Watford
+46675,Arsenal,AFC Bournemouth
+46676,Brighton and Hove Albion,Tottenham Hotspur
+46677,Burnley,Everton
+46678,Liverpool,Leicester City
+46679,Manchester City,Wolverhampton Wanderers
+46680,Newcastle United,Manchester United
+46681,Norwich City,Aston Villa
+46682,Southampton,Chelsea
+46683,Watford,Sheffield United
+46684,West Ham United,Crystal Palace
+46685,Aston Villa,Brighton and Hove Albion
+46686,AFC Bournemouth,Norwich City
+46687,Chelsea,Newcastle United
+46688,Crystal Palace,Manchester City
+46689,Everton,West Ham United
+46690,Leicester City,Burnley
+46691,Manchester United,Liverpool
+46692,Sheffield United,Arsenal
+46693,Tottenham Hotspur,Watford
+46694,Wolverhampton Wanderers,Southampton
+46695,Arsenal,Crystal Palace
+46696,Brighton and Hove Albion,Everton
+46697,Burnley,Chelsea
+46698,Liverpool,Tottenham Hotspur
+46699,Manchester City,Aston Villa
+46700,Newcastle United,Wolverhampton Wanderers
+46701,Norwich City,Manchester United
+46702,Southampton,Leicester City
+46703,Watford,AFC Bournemouth
+46704,West Ham United,Sheffield United
+46705,Arsenal,Wolverhampton Wanderers
+46706,Aston Villa,Liverpool
+46707,AFC Bournemouth,Manchester United
+46708,Brighton and Hove Albion,Norwich City
+46709,Crystal Palace,Leicester City
+46710,Everton,Tottenham Hotspur
+46711,Manchester City,Southampton
+46712,Sheffield United,Burnley
+46713,Watford,Chelsea
+46714,West Ham United,Newcastle United
+46715,Burnley,West Ham United
+46716,Chelsea,Crystal Palace
+46717,Leicester City,Arsenal
+46718,Liverpool,Manchester City
+46719,Manchester United,Brighton and Hove Albion
+46720,Newcastle United,AFC Bournemouth
+46721,Norwich City,Watford
+46722,Southampton,Everton
+46723,Tottenham Hotspur,Sheffield United
+46724,Wolverhampton Wanderers,Aston Villa
+46725,Arsenal,Southampton
+46726,Aston Villa,Newcastle United
+46727,AFC Bournemouth,Wolverhampton Wanderers
+46728,Brighton and Hove Albion,Leicester City
+46729,Crystal Palace,Liverpool
+46730,Everton,Norwich City
+46731,Manchester City,Chelsea
+46732,Sheffield United,Manchester United
+46733,Watford,Burnley
+46734,West Ham United,Tottenham Hotspur
+46735,Burnley,Crystal Palace
+46736,Chelsea,West Ham United
+46737,Leicester City,Everton
+46738,Liverpool,Brighton and Hove Albion
+46739,Manchester United,Aston Villa
+46740,Newcastle United,Manchester City
+46741,Norwich City,Arsenal
+46742,Southampton,Watford
+46743,Tottenham Hotspur,AFC Bournemouth
+46744,Wolverhampton Wanderers,Sheffield United
+46745,Arsenal,Brighton and Hove Albion
+46746,Burnley,Manchester City
+46747,Leicester City,Watford
+46748,Manchester United,Tottenham Hotspur
+46749,Sheffield United,Newcastle United
+46750,Wolverhampton Wanderers,West Ham United
+46751,Chelsea,Aston Villa
+46752,Crystal Palace,AFC Bournemouth
+46753,Liverpool,Everton
+46754,Southampton,Norwich City
+46755,Aston Villa,Leicester City
+46756,AFC Bournemouth,Liverpool
+46757,Brighton and Hove Albion,Wolverhampton Wanderers
+46758,Everton,Chelsea
+46759,Manchester City,Manchester United
+46760,Newcastle United,Southampton
+46761,Norwich City,Sheffield United
+46762,Tottenham Hotspur,Burnley
+46763,Watford,Crystal Palace
+46764,West Ham United,Arsenal
+46765,Arsenal,Manchester City
+46766,Burnley,Newcastle United
+46767,Chelsea,AFC Bournemouth
+46768,Crystal Palace,Brighton and Hove Albion
+46769,Leicester City,Norwich City
+46770,Liverpool,Watford
+46771,Manchester United,Everton
+46772,Sheffield United,Aston Villa
+46773,Southampton,West Ham United
+46774,Wolverhampton Wanderers,Tottenham Hotspur
+46775,Aston Villa,Southampton
+46776,AFC Bournemouth,Burnley
+46777,Brighton and Hove Albion,Sheffield United
+46778,Everton,Arsenal
+46779,Manchester City,Leicester City
+46780,Newcastle United,Crystal Palace
+46781,Norwich City,Wolverhampton Wanderers
+46782,Tottenham Hotspur,Chelsea
+46783,Watford,Manchester United
+46785,Aston Villa,Norwich City
+46786,AFC Bournemouth,Arsenal
+46787,Chelsea,Southampton
+46788,Crystal Palace,West Ham United
+46789,Everton,Burnley
+46790,Leicester City,Liverpool
+46791,Manchester United,Newcastle United
+46792,Sheffield United,Watford
+46793,Tottenham Hotspur,Brighton and Hove Albion
+46794,Wolverhampton Wanderers,Manchester City
+46795,Arsenal,Chelsea
+46796,Brighton and Hove Albion,AFC Bournemouth
+46797,Burnley,Manchester United
+46798,Liverpool,Wolverhampton Wanderers
+46799,Manchester City,Sheffield United
+46800,Newcastle United,Everton
+46801,Norwich City,Tottenham Hotspur
+46802,Southampton,Crystal Palace
+46803,Watford,Aston Villa
+46804,West Ham United,Leicester City
+46805,Arsenal,Manchester United
+46806,Brighton and Hove Albion,Chelsea
+46807,Burnley,Aston Villa
+46808,Liverpool,Sheffield United
+46809,Manchester City,Everton
+46810,Newcastle United,Leicester City
+46811,Norwich City,Crystal Palace
+46812,Southampton,Tottenham Hotspur
+46813,Watford,Wolverhampton Wanderers
+46814,West Ham United,AFC Bournemouth
+46815,Aston Villa,Manchester City
+46816,AFC Bournemouth,Watford
+46817,Chelsea,Burnley
+46818,Crystal Palace,Arsenal
+46819,Everton,Brighton and Hove Albion
+46820,Leicester City,Southampton
+46821,Manchester United,Norwich City
+46822,Sheffield United,West Ham United
+46823,Tottenham Hotspur,Liverpool
+46824,Wolverhampton Wanderers,Newcastle United
+46825,Arsenal,Sheffield United
+46826,Brighton and Hove Albion,Aston Villa
+46827,Burnley,Leicester City
+46828,Liverpool,Manchester United
+46829,Manchester City,Crystal Palace
+46830,Newcastle United,Chelsea
+46831,Norwich City,AFC Bournemouth
+46832,Southampton,Wolverhampton Wanderers
+46833,Watford,Tottenham Hotspur
+46834,West Ham United,Everton
+46784,West Ham United,Liverpool
+46835,Aston Villa,Watford
+46836,AFC Bournemouth,Brighton and Hove Albion
+46837,Everton,Newcastle United
+46838,Leicester City,West Ham United
+46839,Manchester United,Burnley
+46840,Sheffield United,Manchester City
+46841,Wolverhampton Wanderers,Liverpool
+46842,Chelsea,Arsenal
+46843,Crystal Palace,Southampton
+46844,Tottenham Hotspur,Norwich City
+46845,AFC Bournemouth,Aston Villa
+46846,Burnley,Arsenal
+46847,Crystal Palace,Sheffield United
+46848,Leicester City,Chelsea
+46849,Liverpool,Southampton
+46850,Manchester United,Wolverhampton Wanderers
+46851,Newcastle United,Norwich City
+46852,Tottenham Hotspur,Manchester City
+46853,Watford,Everton
+46854,West Ham United,Brighton and Hove Albion
+46855,Arsenal,Newcastle United
+46856,Aston Villa,Tottenham Hotspur
+46857,Brighton and Hove Albion,Watford
+46858,Chelsea,Manchester United
+46859,Everton,Crystal Palace
+46860,Manchester City,West Ham United
+46861,Norwich City,Liverpool
+46862,Sheffield United,AFC Bournemouth
+46863,Southampton,Burnley
+46864,Wolverhampton Wanderers,Leicester City
+46865,Arsenal,Everton
+46866,Burnley,AFC Bournemouth
+46867,Chelsea,Tottenham Hotspur
+46868,Crystal Palace,Newcastle United
+46869,Leicester City,Manchester City
+46870,Liverpool,West Ham United
+46871,Manchester United,Watford
+46872,Sheffield United,Brighton and Hove Albion
+46873,Southampton,Aston Villa
+46874,Wolverhampton Wanderers,Norwich City
+46876,AFC Bournemouth,Chelsea
+46877,Brighton and Hove Albion,Crystal Palace
+46878,Everton,Manchester United
+46880,Newcastle United,Burnley
+46881,Norwich City,Leicester City
+46882,Tottenham Hotspur,Wolverhampton Wanderers
+46883,Watford,Liverpool
+46884,West Ham United,Southampton
+46885,Arsenal,West Ham United
+46886,Burnley,Tottenham Hotspur
+46887,Chelsea,Everton
+46888,Crystal Palace,Watford
+46889,Leicester City,Aston Villa
+46890,Liverpool,AFC Bournemouth
+46891,Manchester United,Manchester City
+46892,Sheffield United,Norwich City
+46893,Southampton,Newcastle United
+46894,Wolverhampton Wanderers,Brighton and Hove Albion
+46895,Aston Villa,Chelsea
+46896,AFC Bournemouth,Crystal Palace
+46897,Brighton and Hove Albion,Arsenal
+46898,Everton,Liverpool
+46899,Manchester City,Burnley
+46900,Newcastle United,Sheffield United
+46901,Norwich City,Southampton
+46902,Tottenham Hotspur,Manchester United
+46903,Watford,Leicester City
+46904,West Ham United,Wolverhampton Wanderers
+46905,Burnley,Watford
+46906,Chelsea,Manchester City
+46907,Leicester City,Brighton and Hove Albion
+46908,Liverpool,Crystal Palace
+46909,Manchester United,Sheffield United
+46910,Newcastle United,Aston Villa
+46911,Norwich City,Everton
+46912,Southampton,Arsenal
+46913,Tottenham Hotspur,West Ham United
+46914,Wolverhampton Wanderers,AFC Bournemouth
+46915,Arsenal,Norwich City
+46916,Aston Villa,Wolverhampton Wanderers
+46917,AFC Bournemouth,Newcastle United
+46918,Brighton and Hove Albion,Manchester United
+46919,Crystal Palace,Burnley
+46920,Everton,Leicester City
+46921,Manchester City,Liverpool
+46922,Sheffield United,Tottenham Hotspur
+46923,Watford,Southampton
+46924,West Ham United,Chelsea
+46925,Burnley,Sheffield United
+46926,Chelsea,Watford
+46927,Leicester City,Crystal Palace
+46928,Liverpool,Aston Villa
+46929,Manchester United,AFC Bournemouth
+46930,Newcastle United,West Ham United
+46931,Norwich City,Brighton and Hove Albion
+46932,Southampton,Manchester City
+46933,Tottenham Hotspur,Everton
+46934,Wolverhampton Wanderers,Arsenal
+46935,Arsenal,Leicester City
+46936,Aston Villa,Manchester United
+46937,AFC Bournemouth,Tottenham Hotspur
+46938,Brighton and Hove Albion,Liverpool
+46939,Crystal Palace,Chelsea
+46940,Everton,Southampton
+46941,Manchester City,Newcastle United
+46942,Sheffield United,Wolverhampton Wanderers
+46943,Watford,Norwich City
+46944,West Ham United,Burnley
+46945,Aston Villa,Crystal Palace
+46946,AFC Bournemouth,Leicester City
+46947,Brighton and Hove Albion,Manchester City
+46948,Liverpool,Burnley
+46949,Manchester United,Southampton
+46950,Norwich City,West Ham United
+46951,Sheffield United,Chelsea
+46952,Tottenham Hotspur,Arsenal
+46953,Watford,Newcastle United
+46954,Wolverhampton Wanderers,Everton
+46955,Arsenal,Liverpool
+46956,Burnley,Wolverhampton Wanderers
+46957,Chelsea,Norwich City
+46958,Crystal Palace,Manchester United
+46959,Everton,Aston Villa
+46960,Leicester City,Sheffield United
+46961,Manchester City,AFC Bournemouth
+46962,Newcastle United,Tottenham Hotspur
+46963,Southampton,Brighton and Hove Albion
+46964,West Ham United,Watford
+46965,Aston Villa,Arsenal
+46966,AFC Bournemouth,Southampton
+46967,Brighton and Hove Albion,Newcastle United
+46968,Liverpool,Chelsea
+46969,Manchester United,West Ham United
+46970,Norwich City,Burnley
+46971,Sheffield United,Everton
+46972,Tottenham Hotspur,Leicester City
+46973,Watford,Manchester City
+46974,Wolverhampton Wanderers,Crystal Palace
+46975,Arsenal,Watford
+46976,Burnley,Brighton and Hove Albion
+46977,Chelsea,Wolverhampton Wanderers
+46978,Crystal Palace,Tottenham Hotspur
+46979,Everton,AFC Bournemouth
+46980,Leicester City,Manchester United
+46981,Manchester City,Norwich City
+46982,Newcastle United,Liverpool
+46983,Southampton,Sheffield United
+46984,West Ham United,Aston Villa
