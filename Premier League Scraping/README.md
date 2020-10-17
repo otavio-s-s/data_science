@@ -3,7 +3,7 @@
 # Premier League Scraper
 
 
-The code was made to scrape data from each Premier League game in the 2019/20 season. You can see the data [here](https://github.com/otavio-s-s/data_science/blob/master/Premier%20League%20Scraping/PL_scraped.csv).
+The code was made to scrape data from each Premier League game in the 2019/20 season. You can see the data [here](https://github.com/otavio-s-s/data_science/blob/master/Premier%20League%20Scraping/Premier_league_19_20.csv).
 
 ### Prerequisites
 
