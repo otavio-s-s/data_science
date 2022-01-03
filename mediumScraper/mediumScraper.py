@@ -22,7 +22,7 @@ def scraper(url, year):
             if len(day) == 1:
                 day = f'0{day}'
 
-            date = f'{month}/{day}/2019'
+            date = f'{month}/{day}/{year}'
             url = f'{url}/archive/{year}/{month}/{day}'
 
             page = requests.get(url)
