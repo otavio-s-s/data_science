@@ -57,8 +57,7 @@ def scraper(url, year):
                 else:
                     responses = '0 responses'
 
-                story_url = story.find('a', class_='button button--smaller button--chromeless u-baseColor--buttonNormal')[
-                    'href']
+                story_url = story.find('a', class_='link link--darken')['href']
 
                 reading_time = reading_time.split()[0]
                 responses = responses.split()[0]
