@@ -2,6 +2,8 @@ def scraper(url, year):
     import pandas as pd
     from bs4 import BeautifulSoup
     import requests
+    import numpy as np
+    from time import sleep
 
     stories_data = []
 
@@ -24,6 +26,8 @@ def scraper(url, year):
 
             date = f'{month}/{day}/{year}'
             url = f'{url}/archive/{year}/{month}/{day}'
+            
+            sleep(np.random.randint(0,50))
 
             page = requests.get(url)
             soup = BeautifulSoup(page.text, 'html.parser')
@@ -62,6 +66,8 @@ def scraper(url, year):
 
                 reading_time = reading_time.split()[0]
                 responses = responses.split()[0]
+                
+                sleep(np.random.randint(0,50))
 
                 story_page = requests.get(story_url)
                 story_soup = BeautifulSoup(story_page.text, 'html.parser')
